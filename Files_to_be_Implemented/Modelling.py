@@ -25,6 +25,7 @@ def model(munged_csv):
 
     print("Accuracy:", metrics.accuracy_score(y_test, y_pred))
     print(confusion_matrix(y_test, y_pred))
+    return clf
 
 
 # model("F:\Pycharm\Role_Assignment\Dataset\Munged_csv.csv")

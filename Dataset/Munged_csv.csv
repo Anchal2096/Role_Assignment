@@ -1,23 +1,23 @@
 ,Application_ID,Python (out of 3),R Programming (out of 3),Deep Learning (out of 3),PHP (out of 3),MySQL (out of 3),HTML (out of 3),CSS (out of 3),JavaScript (out of 3),AJAX (out of 3),Bootstrap (out of 3),MongoDB (out of 3),Node.js (out of 3),ReactJS (out of 3),Other skills,Data_Scientist_Total,Web_Development_Total,Web_Development_Eligibility,Data_Scientist_Eligibility,Post Assigned
-0,ML0002,2,0,0,2,2,2,2,2,0,0,0,0,0,"Data Science, Machine Learning, Neural Networks, Python, Android",5,8,0,0,0
-1,ML0003,3,0,1,2,2,2,0,2,0,0,0,0,0,"Algorithms, Data Structures, Python, C Programming, C#.NET, C++ Programming, Data Analytics, Java, Machine Learning, Mathematics, MongoDB, Natural Language Processing (NLP), PostgreSQL, SQL, Statistical Modeling, Amazon Web Services (AWS), Deep Learning",14,7,1,1,3
+0,ML0002,2,0,0,2,2,2,2,2,0,0,0,0,0,"Data Science, Machine Learning, Neural Networks, Python, Android",5,8,1,0,2
+1,ML0003,3,0,1,2,2,2,0,2,0,0,0,0,0,"Algorithms, Data Structures, Python, C Programming, C#.NET, C++ Programming, Data Analytics, Java, Machine Learning, Mathematics, MongoDB, Natural Language Processing (NLP), PostgreSQL, SQL, Statistical Modeling, Amazon Web Services (AWS), Deep Learning",14,7,0,1,1
 2,ML0004,2,0,2,1,0,2,0,0,0,0,0,0,0,"CSS, Deep Learning, Embedded Systems, HTML, Machine Learning, Python, Arduino",6,3,0,0,0
-3,ML0005,2,0,0,2,0,2,1,1,0,0,2,2,2,"HTML, OpenCV, Python, SQL, C++ Programming, CSS, Django, MongoDB, REST API",4,11,0,0,0
+3,ML0005,2,0,0,2,0,2,1,1,0,0,2,2,2,"HTML, OpenCV, Python, SQL, C++ Programming, CSS, Django, MongoDB, REST API",4,11,1,0,2
 4,ML0006,2,0,0,1,0,3,2,1,0,0,0,0,0,"Data Analytics, Machine Learning, MySQL, Python",4,7,0,0,0
 5,ML0007,1,0,0,0,0,0,0,0,0,0,0,0,0,"MS-Word, Python, Robotics",1,0,0,0,0
 6,ML0008,3,1,0,0,0,2,0,0,0,0,0,0,0,"Data Analytics, Python, SQL, .NET, ASP.NET, C#, MS SQL Server, MySQL, R Programming",5,4,0,0,0
 7,ML0009,3,0,0,0,0,2,2,0,0,0,0,0,0,"English Proficiency (Spoken), English Proficiency (Written), Hindi Proficiency(Spoken), LaTeX, MS-Excel, MS-PowerPoint, MS-Word, Python, Report Writing, BIG DATA ANALYTICS, Creative Writing, Data Analytics, Event Management, MATLAB, Machine Learning, Physics, SQL, Teaching, WordPress, C++ Programming, Catia, Video Editing",8,4,0,0,0
-8,ML0010,2,0,2,0,0,2,2,2,0,0,0,0,2,"MS-Office, Computer Vision, Data Analytics, Deep Learning, MS-Excel, Machine Learning, Natural Language Processing (NLP), Python, SQL",9,8,1,0,2
+8,ML0010,2,0,2,0,0,2,2,2,0,0,0,0,2,"MS-Office, Computer Vision, Data Analytics, Deep Learning, MS-Excel, Machine Learning, Natural Language Processing (NLP), Python, SQL",9,8,1,1,3
 9,ML0011,2,0,0,0,0,0,0,0,0,0,0,0,0,"CSS, HTML, Java, Python, SQL",2,0,0,0,0
-10,ML0012,3,0,2,1,0,2,0,0,0,0,0,0,0,"Python, C++ Programming, Data Analytics, Deep Learning, MATLAB, Machine Learning, SQL",9,3,1,0,2
-11,ML0013,2,2,1,1,0,2,2,1,0,0,0,0,0,"C Programming, Image Processing, Machine Learning, Natural Language Processing (NLP), OpenCV, Python, R Programming, Deep Learning, MySQL",9,6,1,0,2
+10,ML0012,3,0,2,1,0,2,0,0,0,0,0,0,0,"Python, C++ Programming, Data Analytics, Deep Learning, MATLAB, Machine Learning, SQL",9,3,0,1,1
+11,ML0013,2,2,1,1,0,2,2,1,0,0,0,0,0,"C Programming, Image Processing, Machine Learning, Natural Language Processing (NLP), OpenCV, Python, R Programming, Deep Learning, MySQL",9,6,0,1,1
 12,ML0014,2,2,0,2,1,0,0,0,0,0,0,0,0,"C Programming, C++ Programming, Data Analytics, Java, MS-Excel, Machine Learning, MySQL, Python, R Programming, Statistical Modeling",8,2,0,0,0
 13,ML0015,2,0,0,0,0,0,0,0,0,0,0,0,0,"Java, Python, SQL, C Programming",2,0,0,0,0
 14,ML0016,2,0,0,0,2,2,2,1,1,1,0,0,0,"SQL, Data Analytics, MS-Excel, Machine Learning, Python",6,7,0,0,0
 15,ML0017,2,0,0,2,0,2,2,0,0,0,0,0,0,"MS-Office, Python, Data Science, Machine Learning, SQL",3,6,0,0,0
 16,ML0018,1,0,0,0,0,2,2,1,0,0,0,0,0,"Data Analytics, Machine Learning, Python",3,5,0,0,0
 17,ML0019,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,0,0
-18,ML0020,2,0,0,2,2,2,2,2,0,0,0,0,1,"BIG DATA ANALYTICS, Data Analytics, Database Management System (DBMS), Machine Learning, MySQL, Natural Language Processing (NLP), Python",8,9,0,0,0
+18,ML0020,2,0,0,2,2,2,2,2,0,0,0,0,1,"BIG DATA ANALYTICS, Data Analytics, Database Management System (DBMS), Machine Learning, MySQL, Natural Language Processing (NLP), Python",8,9,1,0,2
 19,ML0022,1,1,0,0,0,0,0,0,0,0,0,0,0,"Python, R Programming",2,0,0,0,0
 20,ML0023,2,0,0,0,0,2,2,0,0,0,0,0,0,"Data Science, C Programming, Data Structures, Machine Learning, Neural Networks, Python, SQL",4,4,0,0,0
 21,ML0025,2,0,0,0,2,0,2,2,0,0,0,0,0,"Algorithms, C++ Programming, Data Structures, Database Management System (DBMS), Python, Java",6,4,0,0,0
@@ -25,98 +25,98 @@
 23,ML0027,2,0,0,0,0,2,2,1,0,0,0,0,0,"Machine Learning, Python",3,5,0,0,0
 24,ML0028,2,0,2,0,0,0,0,0,0,0,0,0,0,"Artifical Intelligence, C++ Programming, Deep Learning, Image Processing, Machine Learning, Python",8,0,0,0,0
 25,ML0029,2,1,0,2,0,2,1,2,0,0,0,0,0,"Machine Learning, Natural Language Processing (NLP), Python, MATLAB, R Programming",6,7,0,0,0
-26,ML0030,2,2,2,2,0,2,2,0,0,0,0,0,0,"Artifical Intelligence, Computer Vision, Deep Learning, Machine Learning, Natural Language Processing (NLP), Python, R Programming, SQL, Statistical Modeling, Tableau",13,6,1,1,3
+26,ML0030,2,2,2,2,0,2,2,0,0,0,0,0,0,"Artifical Intelligence, Computer Vision, Deep Learning, Machine Learning, Natural Language Processing (NLP), Python, R Programming, SQL, Statistical Modeling, Tableau",13,6,0,1,1
 27,ML0031,2,2,0,0,0,2,2,0,0,0,0,0,0,"Data Analytics, MS-Excel, MS-Office, Machine Learning, Python, R Programming, SQL",6,4,0,0,0
 28,ML0032,2,0,0,1,0,1,1,1,0,0,0,0,0,"Data Analytics, Machine Learning, Python",4,4,0,0,0
 29,ML0033,1,0,0,0,0,1,1,1,0,0,0,0,0,"CSS, Django, HTML, JavaScript, Python",1,4,0,0,0
-30,ML0034,3,2,2,0,0,2,2,0,0,2,0,0,0,"Python, Data Structures, Deep Learning, Machine Learning, R Programming, Statistical Modeling, Natural Language Processing (NLP)",12,6,1,1,3
-31,ML0035,3,3,3,0,2,2,2,1,0,2,0,0,0,"Artifical Intelligence, Data Analytics, Deep Learning, MS-Excel, Machine Learning, Python, R Programming",15,7,1,1,3
+30,ML0034,3,2,2,0,0,2,2,0,0,2,0,0,0,"Python, Data Structures, Deep Learning, Machine Learning, R Programming, Statistical Modeling, Natural Language Processing (NLP)",12,6,0,1,1
+31,ML0035,3,3,3,0,2,2,2,1,0,2,0,0,0,"Artifical Intelligence, Data Analytics, Deep Learning, MS-Excel, Machine Learning, Python, R Programming",15,7,0,1,1
 32,ML0036,0,0,0,0,0,0,0,0,0,0,0,0,0,"English Proficiency (Spoken), English Proficiency (Written), SPSS, Data Analytics, Database Management System (DBMS), MS-Excel, Machine Learning, Report Writing, Adobe Photoshop, PHP, WordPress",4,1,0,0,0
 33,ML0037,2,0,0,1,2,1,2,0,0,2,0,0,0,"Django, MS-Excel, Machine Learning, Python, SQL",5,7,0,0,0
-34,ML0038,2,0,2,2,0,2,2,2,0,0,0,0,0,"Data Structures, Artifical Intelligence, Database Management System (DBMS), Deep Learning, J2EE, Java, Machine Learning, Python",8,8,0,0,0
-35,ML0039,1,0,0,2,3,3,2,2,0,2,0,2,0,"C Programming, MS-Office, Bootstrap, C++ Programming, Data Structures, English Proficiency (Spoken), HTML, MySQL, PHP, Python",5,13,0,0,0
+34,ML0038,2,0,2,2,0,2,2,2,0,0,0,0,0,"Data Structures, Artifical Intelligence, Database Management System (DBMS), Deep Learning, J2EE, Java, Machine Learning, Python",8,8,1,0,2
+35,ML0039,1,0,0,2,3,3,2,2,0,2,0,2,0,"C Programming, MS-Office, Bootstrap, C++ Programming, Data Structures, English Proficiency (Spoken), HTML, MySQL, PHP, Python",5,13,1,0,2
 36,ML0040,2,0,0,0,0,0,0,0,0,0,0,0,0,"Bootstrap, CSS, HTML, JavaScript, WordPress, Java, Python",3,0,0,0,0
 37,ML0041,1,1,1,0,0,0,0,0,0,0,0,0,0,"C Programming, C++ Programming, Deep Learning, Machine Learning, Natural Language Processing (NLP), Python, R Programming",6,0,0,0,0
-38,ML0042,1,0,0,3,0,3,2,3,0,0,0,0,0,"Android, Java, Adobe Photoshop, Machine Learning, Python",2,12,0,0,0
+38,ML0042,1,0,0,3,0,3,2,3,0,0,0,0,0,"Android, Java, Adobe Photoshop, Machine Learning, Python",2,12,1,0,2
 39,ML0043,1,2,0,0,0,2,0,2,0,0,0,0,0,"English Proficiency (Spoken), Data Analytics, MS-Excel, Machine Learning, R Programming, Tableau, Python",6,4,0,0,0
 40,ML0044,2,2,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Data Analytics, Data Science, Python, R Programming, MS-Excel, Machine Learning, SQL, Statistical Modeling, Tableau",8,0,0,0,0
 41,ML0045,2,0,0,0,0,0,0,0,0,0,0,0,0,"Algorithms, C++ Programming, Data Analytics, Data Structures, Machine Learning, Mathematics, Python",6,0,0,0,0
-42,ML0046,3,0,2,0,0,0,0,0,0,0,0,0,0,"Image Processing, Machine Learning, Mathematics, Python, Computer Vision, Deep Learning, OpenCV, Django",9,1,1,0,2
-43,ML0047,0,0,0,2,2,2,2,2,0,2,0,0,0,"AutoCAD, Embedded Systems, MATLAB",3,10,0,0,0
+42,ML0046,3,0,2,0,0,0,0,0,0,0,0,0,0,"Image Processing, Machine Learning, Mathematics, Python, Computer Vision, Deep Learning, OpenCV, Django",9,1,0,1,1
+43,ML0047,0,0,0,2,2,2,2,2,0,2,0,0,0,"AutoCAD, Embedded Systems, MATLAB",3,10,1,0,2
 44,ML0048,2,0,2,0,0,2,0,0,0,0,0,0,0,"C Programming, C++ Programming, Deep Learning, Machine Learning, Python",6,2,0,0,0
 45,ML0049,2,0,0,2,0,2,2,1,0,0,0,0,0,"Machine Learning, Python, SQL",3,7,0,0,0
 46,ML0050,2,0,0,0,0,2,2,1,0,0,0,0,0,"Python, Computer Vision, Image Processing, Machine Learning, Natural Language Processing (NLP), OpenCV",6,5,0,0,0
 47,ML0051,1,0,0,0,0,0,0,0,0,0,0,0,0,"HTML, Java, MS-Word, C Programming, Python",1,0,0,0,0
-48,ML0052,2,0,0,2,0,2,2,3,0,0,0,0,0,"Artifical Intelligence, Machine Learning, Python, SQL, Statistical Modeling, MongoDB",5,9,0,0,0
+48,ML0052,2,0,0,2,0,2,2,3,0,0,0,0,0,"Artifical Intelligence, Machine Learning, Python, SQL, Statistical Modeling, MongoDB",5,9,1,0,2
 49,ML0053,2,0,2,2,0,2,2,0,0,0,0,0,0,"Deep Learning, Machine Learning, Python, Artifical Intelligence, Natural Language Processing (NLP)",8,6,0,0,0
 50,ML0054,1,0,0,0,0,2,0,0,0,0,0,0,0,"AngularJS, CSS, HTML, Java, JavaScript, MySQL, Node.js, ReactJS, Python",2,2,0,0,0
 51,ML0055,2,2,0,2,0,2,2,0,0,0,0,0,0,"MS-Word, Statistical Modeling, MS-Excel, MS-Office, Mathematics, Python, R Programming, Data Analytics",6,6,0,0,0
-52,ML0056,2,2,2,0,0,0,0,0,0,0,0,0,0,"C Programming, Data Structures, Deep Learning, Machine Learning, MySQL, Natural Language Processing (NLP), Python, R Programming, Computer Vision, Django, Hadoop",12,1,1,1,3
+52,ML0056,2,2,2,0,0,0,0,0,0,0,0,0,0,"C Programming, Data Structures, Deep Learning, Machine Learning, MySQL, Natural Language Processing (NLP), Python, R Programming, Computer Vision, Django, Hadoop",12,1,0,1,1
 53,ML0057,0,0,0,0,0,2,0,0,0,0,0,0,0,"Data Analytics, Machine Learning, Database Management System (DBMS)",2,2,0,0,0
 54,ML0058,3,0,0,2,0,3,2,0,0,0,0,0,0,"C Programming, C++ Programming, Python, Java, HTML, JavaScript, SQL",3,7,0,0,0
 55,ML0059,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-56,ML0060,3,1,0,3,0,2,2,0,0,3,0,0,0,"Data Analytics, Machine Learning, MySQL, Python, Statistical Modeling, BIG DATA ANALYTICS, MS-Excel, SAS, R Programming",8,10,0,0,0
-57,ML0061,3,0,3,0,0,0,0,0,0,0,0,0,0,"Computer Vision, Deep Learning, Image Processing, Neural Networks, Python, Data Analytics",10,0,1,0,2
+56,ML0060,3,1,0,3,0,2,2,0,0,3,0,0,0,"Data Analytics, Machine Learning, MySQL, Python, Statistical Modeling, BIG DATA ANALYTICS, MS-Excel, SAS, R Programming",8,10,1,0,2
+57,ML0061,3,0,3,0,0,0,0,0,0,0,0,0,0,"Computer Vision, Deep Learning, Image Processing, Neural Networks, Python, Data Analytics",10,0,0,1,1
 58,ML0062,1,0,0,0,0,0,0,2,0,0,0,0,0,"AutoCAD, Autodesk Inventor, C Programming, SolidWorks, ANSYS, C++ Programming, GNU Octave, MATLAB, Arduino, Autodesk SketchBook, HTML, Machine Learning, Python",3,2,0,0,0
 59,ML0063,2,2,0,0,0,0,0,0,0,0,0,0,0,"BIG DATA ANALYTICS, Data Analytics, Database Management System (DBMS), Linux, Machine Learning, Python, R Programming, SQL, Java",7,0,0,0,0
 60,ML0064,2,2,0,0,0,0,0,0,0,0,0,0,0,"MS-Office, C Programming, Python, R Programming, Visual Basic (VB), C++ Programming, MS SQL Server, NoSQL",4,0,0,0,0
 61,ML0065,2,2,0,0,0,2,0,0,0,0,0,0,0,"English Proficiency (Spoken), Data Analytics, MS-Excel, Machine Learning, Python, R Programming",6,2,0,0,0
-62,ML0066,2,0,0,0,0,3,3,2,0,3,0,0,0,"C Programming, C++ Programming, Data Analytics, Data Structures, Database Management System (DBMS), Python, Machine Learning",5,11,0,0,0
-63,ML0067,2,0,0,2,3,3,3,3,0,0,0,0,0,"Data Analytics, English Proficiency (Spoken), Hindi Proficiency (Spoken), MS-Excel, MS-Office, MS-PowerPoint, MS-Word, SQL, C Programming, C++ Programming, Hadoop, Linux, Machine Learning, MySQL, Python, Blockchain, Image Processing",9,11,1,0,2
+62,ML0066,2,0,0,0,0,3,3,2,0,3,0,0,0,"C Programming, C++ Programming, Data Analytics, Data Structures, Database Management System (DBMS), Python, Machine Learning",5,11,1,0,2
+63,ML0067,2,0,0,2,3,3,3,3,0,0,0,0,0,"Data Analytics, English Proficiency (Spoken), Hindi Proficiency (Spoken), MS-Excel, MS-Office, MS-PowerPoint, MS-Word, SQL, C Programming, C++ Programming, Hadoop, Linux, Machine Learning, MySQL, Python, Blockchain, Image Processing",9,11,1,1,3
 64,ML0068,2,2,0,1,0,0,0,0,0,0,0,0,0,"AutoCAD, Machine Learning, Python, R Programming, SQL, Natural Language Processing (NLP)",6,1,0,0,0
 65,ML0069,2,0,0,0,0,0,0,0,0,0,0,0,0,"Data Analytics, Data Science, MS-Excel, Machine Learning, Python",4,0,0,0,0
 66,ML0070,2,0,0,0,0,0,0,0,0,0,0,0,0,"English Proficiency (Spoken), English Proficiency (Written), MS-Word, Machine Learning, MySQL, Python, WordPress, Java",4,0,0,0,0
-67,ML0071,3,0,0,0,2,3,0,2,0,0,0,0,0,"Algorithms, C Programming, C++ Programming, Data Analytics, Data Science, Data Structures, MS-Excel, MS-Word, Machine Learning, Python, Statistical Modeling, Database Management System (DBMS), SQL",10,5,1,0,2
-68,ML0072,1,2,0,2,2,2,2,2,0,0,0,0,0,"Algorithms, Cloud Computing, Database Management System (DBMS), MS-Excel, MS-Word, Machine Learning, Mathematics, R Programming, Statistical Modeling, Python, SPSS",10,8,1,0,2
+67,ML0071,3,0,0,0,2,3,0,2,0,0,0,0,0,"Algorithms, C Programming, C++ Programming, Data Analytics, Data Science, Data Structures, MS-Excel, MS-Word, Machine Learning, Python, Statistical Modeling, Database Management System (DBMS), SQL",10,5,0,1,1
+68,ML0072,1,2,0,2,2,2,2,2,0,0,0,0,0,"Algorithms, Cloud Computing, Database Management System (DBMS), MS-Excel, MS-Word, Machine Learning, Mathematics, R Programming, Statistical Modeling, Python, SPSS",10,8,1,1,3
 69,ML0073,2,2,0,0,0,1,1,1,0,0,0,0,0,"MS-Excel, Machine Learning, Python, R Programming, MS-Office",5,3,0,0,0
-70,ML0074,2,0,0,0,0,2,2,2,0,0,0,0,2,"English Proficiency (Spoken), HTML, Java, MS-Excel, Python, Data Analytics",3,8,0,0,0
+70,ML0074,2,0,0,0,0,2,2,2,0,0,0,0,2,"English Proficiency (Spoken), HTML, Java, MS-Excel, Python, Data Analytics",3,8,1,0,2
 71,ML0075,1,0,1,0,0,0,0,0,0,0,0,0,0,"HTML, JavaScript, Data Analytics, Deep Learning, Machine Learning, Neural Networks, Python",5,0,0,0,0
-72,ML0076,1,0,0,2,0,2,2,0,0,0,0,0,0,"Android, C Programming, C++ Programming, Computer Networks, Data Structures, Database Management System (DBMS), English Proficiency (Spoken), English Proficiency (Written), HTML, Java, MS-Office, MS-PowerPoint, MS-Word, Adobe Photoshop, CSS, Linux, PHP, Python, XML",2,8,0,0,0
-73,ML0077,3,3,3,0,0,2,0,0,0,0,0,0,0,"Adobe Photoshop, CSS, Computer Vision, Data Analytics, Deep Learning, HTML, JavaScript, MATLAB, Machine Learning, Natural Language Processing (NLP), Python, R Programming, MS-Excel, PHP, jQuery",15,4,1,1,3
+72,ML0076,1,0,0,2,0,2,2,0,0,0,0,0,0,"Android, C Programming, C++ Programming, Computer Networks, Data Structures, Database Management System (DBMS), English Proficiency (Spoken), English Proficiency (Written), HTML, Java, MS-Office, MS-PowerPoint, MS-Word, Adobe Photoshop, CSS, Linux, PHP, Python, XML",2,8,1,0,2
+73,ML0077,3,3,3,0,0,2,0,0,0,0,0,0,0,"Adobe Photoshop, CSS, Computer Vision, Data Analytics, Deep Learning, HTML, JavaScript, MATLAB, Machine Learning, Natural Language Processing (NLP), Python, R Programming, MS-Excel, PHP, jQuery",15,4,0,1,1
 74,ML0078,2,0,0,2,0,2,2,0,0,0,0,0,0,"Data Analytics, Machine Learning, Python",4,6,0,0,0
 75,ML0079,2,1,0,0,0,0,0,0,0,0,0,0,0,"Machine Learning, Python, SQL, Database Testing, R Programming",4,0,0,0,0
 76,ML0080,1,0,0,0,0,2,0,0,0,0,0,0,0,"English Proficiency (Spoken), MS-Excel, Data Analytics, Machine Learning, Python",3,2,0,0,0
 77,ML0081,2,2,0,2,0,3,2,0,0,0,0,0,0,"MS-Excel, MS-Office, MS-PowerPoint, Machine Learning, Python, R Programming, SPSS, Statistical Modeling, C++ Programming, Google Analytics, Six Sigma",7,7,0,0,0
 78,ML0082,3,2,0,0,0,0,0,0,0,0,0,0,0,"Data Analytics, MS-Word, Python, Event Management, MS-Office, MS-PowerPoint, R Programming, SQL",6,0,0,0,0
-79,ML0083,2,0,2,3,0,2,2,0,0,3,0,0,0,"Deep Learning, Machine Learning, Python, Algorithms, Artifical Intelligence, C Programming, C++ Programming, Computer Vision, GitHub, Java",9,10,1,0,2
+79,ML0083,2,0,2,3,0,2,2,0,0,3,0,0,0,"Deep Learning, Machine Learning, Python, Algorithms, Artifical Intelligence, C Programming, C++ Programming, Computer Vision, GitHub, Java",9,10,1,1,3
 80,ML0084,2,0,0,0,0,0,0,0,0,0,0,0,0,"Python, SQL",2,0,0,0,0
 81,ML0085,2,2,0,0,0,0,0,2,0,0,0,0,0,"Machine Learning, Python, R Programming, Statistical Modeling, Apache, Hadoop",8,2,0,0,0
 82,ML0086,2,0,0,0,0,0,0,0,0,0,0,0,0,"Machine Learning, Python",3,0,0,0,0
 83,ML0087,2,0,1,0,0,0,0,0,0,0,0,0,0,"Artifical Intelligence, Django, Python, Deep Learning, Machine Learning",6,1,0,0,0
 84,ML0088,2,0,2,0,0,2,0,0,0,0,0,0,0,"C Programming, Data Structures, Database Management System (DBMS), Deep Learning, Machine Learning, Python",7,2,0,0,0
-85,ML0089,1,0,0,0,0,3,3,2,0,3,0,0,0,"SAP, Machine Learning, Python",2,11,0,0,0
-86,ML0090,1,0,0,2,3,3,3,3,0,0,0,0,0,"MS-Excel, MS-Office, Machine Learning, Python",5,11,0,0,0
-87,ML0091,2,2,2,1,0,0,0,0,0,0,0,0,0,"Linux, Data Analytics, Deep Learning, Image Processing, Java, Machine Learning, PHP, Python, R Programming, Natural Language Processing (NLP), OpenCV, Statistical Modeling",12,1,1,1,3
+85,ML0089,1,0,0,0,0,3,3,2,0,3,0,0,0,"SAP, Machine Learning, Python",2,11,1,0,2
+86,ML0090,1,0,0,2,3,3,3,3,0,0,0,0,0,"MS-Excel, MS-Office, Machine Learning, Python",5,11,1,0,2
+87,ML0091,2,2,2,1,0,0,0,0,0,0,0,0,0,"Linux, Data Analytics, Deep Learning, Image Processing, Java, Machine Learning, PHP, Python, R Programming, Natural Language Processing (NLP), OpenCV, Statistical Modeling",12,1,0,1,1
 88,ML0092,2,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Internet of Things (IoT), Mathematics, Database Management System (DBMS), HTML, JavaScript, Machine Learning, MySQL, Python, BIG DATA ANALYTICS",4,0,0,0,0
 89,ML0093,2,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, HTML, PHP, Python, AngularJS, JavaScript",3,0,0,0,0
-90,ML0094,3,1,2,0,2,3,0,2,0,0,0,0,0,"English Proficiency (Written), Hindi Proficiency (Written), MS-Excel, MS-PowerPoint, MS-Word, Python, Telugu Proficiency (Spoken), Telugu Proficiency (Written), C Programming, Computer Vision, Deep Learning, Digital Signal Processing, English Proficiency (Spoken), Hindi Proficiency (Spoken), Image Processing, LaTeX, MATLAB, Machine Learning, NI Multisim, Neural Networks, OpenCV, Proteus Design Suite, Arduino, Artifical Intelligence, R Programming",14,5,1,1,3
-91,ML0095,2,0,0,2,2,2,2,2,0,0,0,0,0,"Algorithms, C Programming, Computer Networking, Data Structures, Database Management System (DBMS), Java, Python, Amazon Web Services (AWS), Bootstrap, Cloud Computing, Linux, Machine Learning, PHP",8,8,0,0,0
+90,ML0094,3,1,2,0,2,3,0,2,0,0,0,0,0,"English Proficiency (Written), Hindi Proficiency (Written), MS-Excel, MS-PowerPoint, MS-Word, Python, Telugu Proficiency (Spoken), Telugu Proficiency (Written), C Programming, Computer Vision, Deep Learning, Digital Signal Processing, English Proficiency (Spoken), Hindi Proficiency (Spoken), Image Processing, LaTeX, MATLAB, Machine Learning, NI Multisim, Neural Networks, OpenCV, Proteus Design Suite, Arduino, Artifical Intelligence, R Programming",14,5,0,1,1
+91,ML0095,2,0,0,2,2,2,2,2,0,0,0,0,0,"Algorithms, C Programming, Computer Networking, Data Structures, Database Management System (DBMS), Java, Python, Amazon Web Services (AWS), Bootstrap, Cloud Computing, Linux, Machine Learning, PHP",8,8,1,0,2
 92,ML0096,2,2,0,0,0,1,1,1,0,0,0,0,0,"MS-Office, Machine Learning, C Programming, Catia, Neural Networks, Python, R Programming, SAS, SQL",5,3,0,0,0
-93,ML0097,2,2,0,0,0,2,2,2,0,0,0,0,2,"Data Structures, Machine Learning, Database Management System (DBMS), Natural Language Processing (NLP), Neural Networks, Python, R Programming, SQL, Statistical Modeling",8,8,0,0,0
+93,ML0097,2,2,0,0,0,2,2,2,0,0,0,0,2,"Data Structures, Machine Learning, Database Management System (DBMS), Natural Language Processing (NLP), Neural Networks, Python, R Programming, SQL, Statistical Modeling",8,8,1,0,2
 94,ML0098,2,2,0,0,0,0,0,0,0,0,0,0,0,"Data Analytics, MS-Excel, Machine Learning, Python, R Programming, SAS, SQL, Statistical Modeling",7,0,0,0,0
-95,ML0099,2,0,0,1,0,2,2,2,0,0,0,0,1,"GitHub, Linux, Python, Visual Basic (VB), C++ Programming, Java, JavaScript, SQL",2,8,0,0,0
-96,ML0100,2,0,0,0,2,3,3,3,0,0,0,0,2,"MS-Office, MS-PowerPoint, Python, SQL",4,11,0,0,0
+95,ML0099,2,0,0,1,0,2,2,2,0,0,0,0,1,"GitHub, Linux, Python, Visual Basic (VB), C++ Programming, Java, JavaScript, SQL",2,8,1,0,2
+96,ML0100,2,0,0,0,2,3,3,3,0,0,0,0,2,"MS-Office, MS-PowerPoint, Python, SQL",4,11,1,0,2
 97,ML0101,2,2,0,0,0,2,2,1,0,0,0,0,1,"Data Analytics, Python, R Programming",5,6,0,0,0
 98,ML0102,1,2,0,0,0,2,2,2,0,0,0,0,1,"R Programming, BIG DATA ANALYTICS, Java, Machine Learning, Python",5,7,0,0,0
 99,ML0103,3,0,0,0,0,2,0,2,0,0,0,0,2,"C Programming, Python, Adobe Illustrator, Java, Adobe Photoshop",3,7,0,0,0
 100,ML0104,3,2,0,0,1,0,0,0,0,0,0,0,1,"C Programming, HTML, Java, Python, Android, Data Analytics, Data Science, Golang, JSP, Machine Learning, R Programming, REST API, Software Testing",8,1,0,0,0
 101,ML0105,2,0,0,0,1,1,0,0,0,0,0,0,2,"Algorithms, C Programming, Data Structures, Database Management System (DBMS), Java, Linux, Python",5,3,0,0,0
 102,ML0106,2,0,0,0,0,0,0,0,0,0,0,0,1,"Algorithms, C Programming, C++ Programming, CSS, Data Analytics, Data Structures, HTML, Java, JavaScript, Linux, Machine Learning, Python",6,1,0,0,0
-103,ML0107,3,0,0,0,0,0,0,0,0,0,0,0,1,"Data Analytics, MS-Office, Python, Algorithms, Data Science, Data Structures, Database Management System (DBMS), GitHub, MS-Excel, Machine Learning, Mathematics, OpenCV, SQL, Statistical Modeling, Natural Language Processing (NLP)",9,1,1,0,2
-104,ML0108,2,0,0,2,0,3,2,2,0,0,0,0,0,"Adobe Photoshop, HTML, Photography, Python, Adobe Illustrator, CSS, Java, Software Testing",2,10,0,0,0
+103,ML0107,3,0,0,0,0,0,0,0,0,0,0,0,1,"Data Analytics, MS-Office, Python, Algorithms, Data Science, Data Structures, Database Management System (DBMS), GitHub, MS-Excel, Machine Learning, Mathematics, OpenCV, SQL, Statistical Modeling, Natural Language Processing (NLP)",9,1,0,1,1
+104,ML0108,2,0,0,2,0,3,2,2,0,0,0,0,0,"Adobe Photoshop, HTML, Photography, Python, Adobe Illustrator, CSS, Java, Software Testing",2,10,1,0,2
 105,ML0109,2,0,1,0,0,2,2,1,0,0,0,0,0,"English Proficiency (Spoken), Machine Learning, Python, SQL, Deep Learning, Natural Language Processing (NLP)",6,5,0,0,0
 106,ML0110,2,0,0,0,0,2,0,0,0,0,0,0,0,"Arduino, C Programming, C++ Programming, Catia, Python, Raspberry Pi",2,2,0,0,0
 107,ML0111,1,0,0,0,0,3,2,2,0,0,0,0,0,"C Programming, C++ Programming, Cloud Computing, Data Analytics, Data Science, Photography, Python",3,7,0,0,0
 108,ML0112,2,2,0,1,0,1,1,1,0,0,0,0,1,"Mathematics, Data Analytics, English Proficiency (Written), MS-Office, Python, R Programming",5,5,0,0,0
-109,ML0113,2,0,0,0,2,2,2,2,0,0,0,0,2,"Computer Vision, Image Processing, Machine Learning, Python",7,8,0,0,0
+109,ML0113,2,0,0,0,2,2,2,2,0,0,0,0,2,"Computer Vision, Image Processing, Machine Learning, Python",7,8,1,0,2
 110,ML0114,1,0,0,0,0,0,0,0,0,0,0,0,1,"English Proficiency (Spoken), MS-Excel, English Proficiency (Written), Machine Learning, Python",2,1,0,0,0
 111,ML0115,2,0,2,0,0,0,0,0,0,0,0,0,2,"Deep Learning, Machine Learning, Natural Language Processing (NLP), Python",7,2,0,0,0
 112,ML0116,2,0,0,0,0,0,0,0,0,0,0,0,1,"MySQL, C Programming, HTML, Python, CSS",2,1,0,0,0
 113,ML0117,2,0,1,2,0,3,2,0,0,0,0,0,0,"Data Science, MS-PowerPoint, MS-Word, Machine Learning, Python, Deep Learning",5,7,0,0,0
-114,ML0118,2,2,1,0,0,0,0,1,0,0,0,0,0,"Machine Learning, Natural Language Processing (NLP), OpenCV, Python, R Programming, Artifical Intelligence, Deep Learning",9,1,1,0,2
+114,ML0118,2,2,1,0,0,0,0,1,0,0,0,0,0,"Machine Learning, Natural Language Processing (NLP), OpenCV, Python, R Programming, Artifical Intelligence, Deep Learning",9,1,0,1,1
 115,ML0119,1,0,1,0,0,2,2,0,0,0,0,0,0,"Deep Learning, MS-Excel, Machine Learning, Python",4,4,0,0,0
 116,ML0120,2,0,2,0,0,2,0,0,0,0,0,0,0,"C Programming, C++ Programming, Deep Learning, Machine Learning, Python, SQL",6,2,0,0,0
-117,ML0121,2,0,0,0,2,2,2,2,0,0,0,2,1,"Algorithms, C Programming, C++ Programming, CSS, Data Structures, HTML, Machine Learning, Python",7,9,0,0,0
+117,ML0121,2,0,0,0,2,2,2,2,0,0,0,2,1,"Algorithms, C Programming, C++ Programming, CSS, Data Structures, HTML, Machine Learning, Python",7,9,1,0,2
 118,ML0122,2,0,0,0,1,2,2,1,0,0,0,0,2,"Computer Vision, Data Analytics, Machine Learning, Python, SQL, MS-Excel",6,7,0,0,0
 119,ML0123,1,0,0,0,0,2,2,0,1,0,0,0,1,"Java, Machine Learning, Python",2,6,0,0,0
 120,ML0124,0,1,0,0,0,2,2,2,0,0,0,0,1,"Data Analytics, English Proficiency (Spoken), Financial Modeling, MS-Excel, Accounting, Digital Marketing, R Programming",2,7,0,0,0
@@ -125,7 +125,7 @@
 123,ML0127,1,0,0,0,0,0,0,0,0,0,0,0,0,"English Proficiency (Spoken), Catia, MS-Office, C Programming, C++ Programming, Data Analytics, Java, Machine Learning, Python",3,0,0,0,0
 124,ML0128,2,2,0,0,0,0,0,0,0,0,0,0,0,"MS-Excel, SQL, Machine Learning, Python, R Programming",5,0,0,0,0
 125,ML0129,2,0,0,0,0,0,0,0,0,0,0,2,0,"Amazon Web Services (AWS), Data Science, Python",2,2,0,0,0
-126,ML0130,2,0,1,0,3,3,3,3,0,0,0,0,0,"English Proficiency (Spoken), MS-Excel, Data Analytics, Python, Deep Learning, Machine Learning",9,9,1,0,2
+126,ML0130,2,0,1,0,3,3,3,3,0,0,0,0,0,"English Proficiency (Spoken), MS-Excel, Data Analytics, Python, Deep Learning, Machine Learning",9,9,1,1,3
 127,ML0131,2,0,0,2,0,0,0,0,0,0,0,0,0,"C++ Programming, Java, Blockchain, C Programming, Python, Servlets, AJAX, CSS, Data Science, HTML, J2EE, JavaScript, Machine Learning, Neural Networks",3,2,0,0,0
 128,ML0132,2,0,0,0,0,3,2,2,0,0,0,0,0,"SQL, Algorithms, Data Analytics, Data Structures, MS-Excel, Machine Learning, Mathematics, Python",6,7,0,0,0
 129,ML0133,2,0,0,2,1,0,0,0,0,0,0,0,0,"Machine Learning, Python, Data Analytics, Power BI, SQL",6,2,0,0,0
@@ -139,8 +139,8 @@
 137,ML0141,2,0,0,0,0,2,1,2,0,0,1,1,1,"Python, Data Analytics, Data Science, Java, Machine Learning",5,7,0,0,0
 138,ML0142,1,0,0,0,0,0,0,0,0,0,0,0,0,"Computer Vision, Data Analytics, MS-Excel, MySQL, Python",3,0,0,0,0
 139,ML0143,2,2,0,0,0,2,2,0,0,0,0,0,0,"HTML, C Programming, CSS, Data Analytics, Java, MS-Excel, MySQL, PHP, Python, R Programming, Machine Learning",6,4,0,0,0
-140,ML0144,2,0,2,0,0,0,0,0,0,0,0,0,0,"Algorithms, Articulate Storyline, Audacity, AutoCAD, Data Analytics, Deep Learning, Machine Learning, Natural Language Processing (NLP), Python, SQL",9,0,1,0,2
-141,ML0145,2,3,0,0,2,0,2,2,0,0,0,0,0,"Data Analytics, Data Science, MS-Excel, Machine Learning, R Programming, MongoDB, Python, Statistical Modeling, Tableau",11,4,1,1,3
+140,ML0144,2,0,2,0,0,0,0,0,0,0,0,0,0,"Algorithms, Articulate Storyline, Audacity, AutoCAD, Data Analytics, Deep Learning, Machine Learning, Natural Language Processing (NLP), Python, SQL",9,0,0,1,1
+141,ML0145,2,3,0,0,2,0,2,2,0,0,0,0,0,"Data Analytics, Data Science, MS-Excel, Machine Learning, R Programming, MongoDB, Python, Statistical Modeling, Tableau",11,4,0,1,1
 142,ML0146,3,0,0,0,0,2,0,0,0,0,0,0,0,"MS-Excel, Machine Learning, Python, SQL",4,2,0,0,0
 143,ML0147,2,0,0,0,0,2,2,1,0,0,0,0,0,"MS-Excel, Python, Machine Learning",3,5,0,0,0
 144,ML0148,2,0,2,0,0,0,0,0,0,0,0,0,0,"Machine Learning, Data Analytics, Deep Learning, MySQL, Natural Language Processing (NLP), Neural Networks, Python, OpenCV",8,0,0,0,0
@@ -150,93 +150,93 @@
 148,ML0152,1,2,0,1,0,1,1,1,0,0,0,0,0,"MS-Excel, R Programming, Data Structures, Python, SQL",4,4,0,0,0
 149,ML0153,3,0,1,0,0,1,1,1,0,0,0,0,0,"MS-Excel, PostgreSQL, Python, SAS, BIG DATA ANALYTICS, GitHub, Natural Language Processing (NLP), OpenCV, Deep Learning, MongoDB",8,3,0,0,0
 150,ML0154,2,0,0,0,0,2,2,0,0,2,0,0,0,"C Programming, Image Processing, Java, Machine Learning, Python, Neural Networks, SQL",4,6,0,0,0
-151,ML0155,2,0,2,0,2,2,2,1,0,2,0,0,0,"Computer Vision, Deep Learning, Machine Learning, Natural Language Processing (NLP), Neural Networks, OpenCV, Python",10,7,1,0,2
+151,ML0155,2,0,2,0,2,2,2,1,0,2,0,0,0,"Computer Vision, Deep Learning, Machine Learning, Natural Language Processing (NLP), Neural Networks, OpenCV, Python",10,7,0,1,1
 152,ML0156,2,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Data Science, Database Management System (DBMS), HTML, Machine Learning, OpenCV, Python, Django, MySQL",3,1,0,0,0
 153,ML0157,3,1,0,1,2,1,2,0,0,2,0,0,0,"Python, Data Structures, Flask, SQL, R Programming",8,6,0,0,0
-154,ML0158,1,0,0,2,0,2,2,2,0,0,0,0,0,"HTML, MS-Office, Adobe Flash, Algorithms, C++ Programming, Data Structures, Eclipse (IDE), GitHub, Java, Linux, Machine Learning, MySQL, Node.js, PHP, Robotics, Software Testing, Android, Kotlin, Python",4,8,0,0,0
-155,ML0159,3,0,0,2,3,3,2,2,0,2,0,2,0,"Python, Algorithms, Data Structures, Django, Machine Learning, Statistical Modeling",10,14,1,0,2
+154,ML0158,1,0,0,2,0,2,2,2,0,0,0,0,0,"HTML, MS-Office, Adobe Flash, Algorithms, C++ Programming, Data Structures, Eclipse (IDE), GitHub, Java, Linux, Machine Learning, MySQL, Node.js, PHP, Robotics, Software Testing, Android, Kotlin, Python",4,8,1,0,2
+155,ML0159,3,0,0,2,3,3,2,2,0,2,0,2,0,"Python, Algorithms, Data Structures, Django, Machine Learning, Statistical Modeling",10,14,1,1,3
 156,ML0160,2,0,2,0,0,0,0,0,0,0,0,0,0,"Algorithms, C++ Programming, Data Structures, Deep Learning, Machine Learning, OpenCV, Python",8,0,0,0,0
 157,ML0161,3,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Java, MS-Word, Python, Cloud Computing, Django, Image Processing, MS-Office, SQL, JavaScript, PHP",5,1,0,0,0
-158,ML0162,0,0,0,3,0,3,2,3,0,0,0,0,0,"Adobe Photoshop, MS-Office, ANSYS, Adobe Illustrator, Java, MATLAB, SPSS",2,12,0,0,0
+158,ML0162,0,0,0,3,0,3,2,3,0,0,0,0,0,"Adobe Photoshop, MS-Office, ANSYS, Adobe Illustrator, Java, MATLAB, SPSS",2,12,1,0,2
 159,ML0163,2,0,0,0,0,2,0,2,0,0,0,0,0,"Data Analytics, Machine Learning, Python",4,4,0,0,0
 160,ML0164,2,0,0,0,0,0,0,0,0,0,0,0,0,"Data Science, Image Processing, Python",3,0,0,0,0
 161,ML0165,1,1,0,0,0,0,0,0,0,0,0,0,0,"C Programming, C++ Programming, Catia, Data Analytics, Data Science, MS-Excel, MS-Office, MySQL, SAP, SolidWorks, Algorithms, Python, R Programming, Statistical Modeling, Tableau",6,0,0,0,0
 162,ML0166,2,0,1,0,0,0,0,0,0,0,0,0,0,"C Programming, C++ Programming, MySQL, Neural Networks, Oracle, Python, Data Analytics, Data Science, Deep Learning, Machine Learning",6,0,0,0,0
-163,ML0167,1,1,0,2,2,2,2,2,0,2,0,0,0,"MS-Excel, Python, R Programming, SQL",4,10,0,0,0
+163,ML0167,1,1,0,2,2,2,2,2,0,2,0,0,0,"MS-Excel, Python, R Programming, SQL",4,10,1,0,2
 164,ML0168,1,1,0,0,0,2,0,0,0,0,0,0,0,"MS-Excel, SQL, Machine Learning, Python, R Programming",3,2,0,0,0
 165,ML0169,2,0,0,2,0,2,2,1,0,0,0,0,0,"Data Analytics, Database Management System (DBMS), Python, Machine Learning",4,7,0,0,0
 166,ML0170,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,5,0,0,0
 167,ML0171,2,2,0,0,0,0,0,0,0,0,0,0,0,"CSS, HTML, JavaScript, jQuery, .NET, ASP.NET, Adobe Photoshop Lightroom CC, C#.NET, Machine Learning, Python, R Programming, SQL",5,4,0,0,0
-168,ML0172,3,3,0,2,0,2,2,3,0,0,0,0,0,"Artifical Intelligence, MS-Excel, Machine Learning, Natural Language Processing (NLP), Neural Networks, Python, R Programming",9,9,1,0,2
+168,ML0172,3,3,0,2,0,2,2,3,0,0,0,0,0,"Artifical Intelligence, MS-Excel, Machine Learning, Natural Language Processing (NLP), Neural Networks, Python, R Programming",9,9,1,1,3
 169,ML0173,1,0,0,1,0,1,1,1,0,0,0,0,0,"C++ Programming, Java, Adobe XD, Data Science, Python",1,4,0,0,0
 170,ML0174,0,0,0,1,1,1,1,0,0,0,0,0,0,"Algorithms, Data Structures, Java, Artifical Intelligence, Machine Learning, Neural Networks",5,3,0,0,0
 171,ML0175,0,0,0,0,0,2,2,0,0,0,0,0,0,"Data Analytics, Machine Learning",2,4,0,0,0
-172,ML0176,2,2,3,1,0,1,1,1,0,0,0,0,0,"Deep Learning, Machine Learning, OpenCV, C++ Programming, Computer Vision, Java, MySQL, Natural Language Processing (NLP), Python, R Programming, Statistical Modeling, BIG DATA ANALYTICS, C Programming",13,4,1,1,3
+172,ML0176,2,2,3,1,0,1,1,1,0,0,0,0,0,"Deep Learning, Machine Learning, OpenCV, C++ Programming, Computer Vision, Java, MySQL, Natural Language Processing (NLP), Python, R Programming, Statistical Modeling, BIG DATA ANALYTICS, C Programming",13,4,0,1,1
 173,ML0177,2,0,2,0,0,1,1,1,0,0,0,0,0,"Deep Learning, Machine Learning, Python, Data Analytics, Natural Language Processing (NLP)",8,3,0,0,0
-174,ML0178,2,2,2,0,0,2,2,0,0,2,0,0,0,"MS-Excel, MS-Office, MS-Word, Deep Learning, GNU Octave, MATLAB, Machine Learning, Neural Networks, Python, R Programming, Java, SQL",9,6,1,0,2
-175,ML0179,2,0,2,0,2,2,2,1,0,2,0,0,0,"Data Analytics, Machine Learning, Artifical Intelligence, Deep Learning, Natural Language Processing (NLP), Python, Computer Vision, Image Processing",13,7,1,1,3
-176,ML0180,2,2,2,0,0,0,0,0,0,0,0,0,0,"C++ Programming, Hadoop, Machine Learning, BIG DATA ANALYTICS, Deep Learning, MS-Excel, Neural Networks, Python, R Programming, SAS",10,0,1,0,2
+174,ML0178,2,2,2,0,0,2,2,0,0,2,0,0,0,"MS-Excel, MS-Office, MS-Word, Deep Learning, GNU Octave, MATLAB, Machine Learning, Neural Networks, Python, R Programming, Java, SQL",9,6,0,1,1
+175,ML0179,2,0,2,0,2,2,2,1,0,2,0,0,0,"Data Analytics, Machine Learning, Artifical Intelligence, Deep Learning, Natural Language Processing (NLP), Python, Computer Vision, Image Processing",13,7,0,1,1
+176,ML0180,2,2,2,0,0,0,0,0,0,0,0,0,0,"C++ Programming, Hadoop, Machine Learning, BIG DATA ANALYTICS, Deep Learning, MS-Excel, Neural Networks, Python, R Programming, SAS",10,0,0,1,1
 177,ML0181,2,0,0,1,2,1,2,0,0,2,0,0,0,"Data Analytics, English Proficiency (Spoken), MS-Excel, Machine Learning, Python",6,6,0,0,0
-178,ML0182,2,0,1,2,0,2,2,2,0,0,0,0,0,"C Programming, Data Analytics, Machine Learning, Python, Deep Learning, Java, Natural Language Processing (NLP), SQL",7,8,0,0,0
+178,ML0182,2,0,1,2,0,2,2,2,0,0,0,0,0,"C Programming, Data Analytics, Machine Learning, Python, Deep Learning, Java, Natural Language Processing (NLP), SQL",7,8,1,0,2
 179,ML0183,2,2,2,2,3,3,2,2,0,2,0,2,0,"JavaScript, SQL, C Programming, CSS, Data Analytics, Data Structures, Database Management System (DBMS), Deep Learning, HTML, Image Processing, Java, MS-Excel, Machine Learning, Natural Language Processing (NLP), Node.js, PHP, Power BI, Python, R Programming, User Interface (UI) Development",16,14,1,1,3
 180,ML0184,0,2,0,0,0,0,0,0,0,0,0,0,0,"Machine Learning, R Programming",3,0,0,0,0
 181,ML0185,2,2,0,0,0,0,0,0,0,0,0,0,0,"C Programming, C++ Programming, Data Analytics, MS-Excel, Machine Learning, Python, R Programming, SQL",6,0,0,0,0
-182,ML0186,1,0,0,3,0,3,2,3,0,0,0,0,0,"MySQL, Java, SQL, Data Analytics, MS-Excel, Machine Learning, Python",3,11,0,0,0
+182,ML0186,1,0,0,3,0,3,2,3,0,0,0,0,0,"MySQL, Java, SQL, Data Analytics, MS-Excel, Machine Learning, Python",3,11,1,0,2
 183,ML0187,2,0,2,0,0,2,0,2,0,0,0,0,0,"CSS, HTML, Arduino, Bootstrap, C Programming, Deep Learning, GitHub, Java, Machine Learning, Python, User Interface (UI) Development, Algorithms, Android, JavaScript",7,5,0,0,0
 184,ML0188,3,0,0,0,0,0,0,0,0,0,0,0,0,"C++ Programming, Python, CSS, HTML, Java, JavaScript, SQL",3,0,0,0,0
 185,ML0189,2,0,0,0,0,0,0,0,0,0,0,0,0,"Machine Learning, Python",3,0,0,0,0
-186,ML0190,2,1,2,0,0,0,0,0,0,0,0,0,0,"Deep Learning, Machine Learning, Neural Networks, PostgreSQL, Python, Flask, MATLAB, MongoDB, R Programming",10,0,1,0,2
-187,ML0191,2,0,0,2,2,2,2,2,0,2,0,0,0,"CSS, HTML, MS-Excel, MS-PowerPoint, PHP, Python, SPSS, SQL, WordPress, Machine Learning",7,10,0,0,0
-188,ML0192,2,0,2,0,0,2,0,0,0,0,0,0,0,"C Programming, C++ Programming, Computer Vision, Data Analytics, Data Science, Deep Learning, Machine Learning, Natural Language Processing (NLP), Python, Statistical Modeling",10,2,1,0,2
+186,ML0190,2,1,2,0,0,0,0,0,0,0,0,0,0,"Deep Learning, Machine Learning, Neural Networks, PostgreSQL, Python, Flask, MATLAB, MongoDB, R Programming",10,0,0,1,1
+187,ML0191,2,0,0,2,2,2,2,2,0,2,0,0,0,"CSS, HTML, MS-Excel, MS-PowerPoint, PHP, Python, SPSS, SQL, WordPress, Machine Learning",7,10,1,0,2
+188,ML0192,2,0,2,0,0,2,0,0,0,0,0,0,0,"C Programming, C++ Programming, Computer Vision, Data Analytics, Data Science, Deep Learning, Machine Learning, Natural Language Processing (NLP), Python, Statistical Modeling",10,2,0,1,1
 189,ML0193,2,2,0,2,0,2,2,1,0,0,0,0,0,"MS-Excel, Python, R Programming",4,7,0,0,0
 190,ML0194,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,5,0,0,0
 191,ML0195,2,0,1,0,0,0,0,0,0,0,0,0,0,"Data Analytics, MS-Office, MS-Excel, Machine Learning, Neural Networks, Python, Statistical Modeling, Adobe Photoshop, Deep Learning, SQL",7,1,0,0,0
-192,ML0196,2,0,0,2,0,2,2,3,0,0,0,0,0,"Android, C++ Programming, Java, Python, Machine Learning, Natural Language Processing (NLP), SQL",4,9,0,0,0
+192,ML0196,2,0,0,2,0,2,2,3,0,0,0,0,0,"Android, C++ Programming, Java, Python, Machine Learning, Natural Language Processing (NLP), SQL",4,9,1,0,2
 193,ML0197,1,0,0,1,0,1,1,1,0,0,0,0,0,"Data Analytics, HTML, MS-Excel, MS-PowerPoint, MS-Word, Database Management System (DBMS), Mathematics, MySQL, PHP, REST API, Software Testing, Python, Statistical Modeling",3,4,0,0,0
-194,ML0198,3,0,2,1,1,1,1,0,0,0,0,0,0,"Python, Tableau, Deep Learning, Machine Learning",9,3,1,0,2
+194,ML0198,3,0,2,1,1,1,1,0,0,0,0,0,0,"Python, Tableau, Deep Learning, Machine Learning",9,3,0,1,1
 195,ML0199,1,1,0,0,0,2,2,0,0,0,0,0,0,"Machine Learning, Microsoft Azure, Python, R Programming",3,4,0,0,0
 196,ML0200,2,0,0,1,0,1,1,1,0,0,0,0,0,"Data Analytics, English Proficiency (Spoken), ANSYS, C Programming, MS-Excel, Machine Learning, Python, SQL, Statistical Modeling",5,4,0,0,0
 197,ML0201,0,0,0,0,0,1,1,1,0,0,0,0,0,"CSS, HTML, REST API, AJAX, ASP.NET, Angular 2.0, C#, GitHub, JavaScript, jQuery, Artifical Intelligence, Machine Learning",2,6,0,0,0
-198,ML0202,2,0,1,0,0,2,2,0,0,2,0,0,0,"Data Analytics, MS-PowerPoint, MS-Word, Machine Learning, Statistical Modeling, Algorithms, Data Structures, Database Management System (DBMS), MS-Excel, MySQL, Python, SQL, Deep Learning, Power BI",10,6,1,0,2
+198,ML0202,2,0,1,0,0,2,2,0,0,2,0,0,0,"Data Analytics, MS-PowerPoint, MS-Word, Machine Learning, Statistical Modeling, Algorithms, Data Structures, Database Management System (DBMS), MS-Excel, MySQL, Python, SQL, Deep Learning, Power BI",10,6,0,1,1
 199,ML0203,0,0,0,0,2,2,2,1,0,2,0,0,0,Software Testing,2,7,0,0,0
-200,ML0204,3,2,1,0,0,0,0,0,0,0,0,0,0,"MS-Excel, MS-Office, Python, C Programming, C++ Programming, CSS, Data Analytics, Database Management System (DBMS), Email Marketing, HTML, Java, MS-PowerPoint, MS-Word, Machine Learning, MySQL, R Programming, SQL, Artifical Intelligence, Deep Learning, Neural Networks, WordPress",11,0,1,1,3
+200,ML0204,3,2,1,0,0,0,0,0,0,0,0,0,0,"MS-Excel, MS-Office, Python, C Programming, C++ Programming, CSS, Data Analytics, Database Management System (DBMS), Email Marketing, HTML, Java, MS-PowerPoint, MS-Word, Machine Learning, MySQL, R Programming, SQL, Artifical Intelligence, Deep Learning, Neural Networks, WordPress",11,0,0,1,1
 201,ML0205,2,0,0,1,2,1,2,0,0,2,0,0,0,"English Proficiency (Spoken), MS-Excel, Python, Data Analytics, Machine Learning",6,6,0,0,0
-202,ML0206,2,0,2,2,0,2,2,2,0,0,0,0,0,"Algorithms, C Programming, Data Structures, Database Management System (DBMS), Deep Learning, Python, Android",7,8,0,0,0
-203,ML0207,2,0,0,2,3,3,2,2,0,2,0,2,0,"Computer Vision, Image Processing, OpenCV, Python, Machine Learning",8,13,0,0,0
+202,ML0206,2,0,2,2,0,2,2,2,0,0,0,0,0,"Algorithms, C Programming, Data Structures, Database Management System (DBMS), Deep Learning, Python, Android",7,8,1,0,2
+203,ML0207,2,0,0,2,3,3,2,2,0,2,0,2,0,"Computer Vision, Image Processing, OpenCV, Python, Machine Learning",8,13,1,0,2
 204,ML0208,1,0,0,0,0,0,0,0,0,0,0,0,0,"Android, Bootstrap, C++ Programming, CSS, HTML, Java, Angular 2.0, Firebase, JavaScript, Python",1,1,0,0,0
 205,ML0209,2,0,0,0,0,0,0,0,0,0,0,0,0,"HTML, Java, Python",2,0,0,0,0
-206,ML0210,2,0,0,3,0,3,2,3,0,0,0,0,0,"C++ Programming, Data Structures, Python, SQL, Java",3,11,0,0,0
+206,ML0210,2,0,0,3,0,3,2,3,0,0,0,0,0,"C++ Programming, Data Structures, Python, SQL, Java",3,11,1,0,2
 207,ML0211,0,0,0,0,0,2,0,2,0,0,0,0,0,"English Proficiency (Spoken), MS-Office, .NET, Digital Marketing, SAP",0,5,0,0,0
 208,ML0212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 209,ML0213,2,0,0,0,0,0,0,0,0,0,0,0,0,"English Proficiency (Spoken), MS-Excel, Machine Learning, Python, Data Analytics, SQL",4,0,0,0,0
 210,ML0214,2,0,0,0,0,0,0,0,0,0,0,0,0,"Flask, MS-Excel, Machine Learning, Python, CSS, Data Analytics, GitHub, HTML, MongoDB, MySQL, SQL",5,0,0,0,0
-211,ML0215,2,0,2,2,2,2,2,2,0,2,0,0,0,"Deep Learning, MS-Excel, Machine Learning, Python, Statistical Modeling",9,10,1,0,2
-212,ML0216,2,2,2,0,0,2,0,0,0,0,0,0,0,"AutoCAD, MS-Excel, Deep Learning, Machine Learning, MySQL, Python, R Programming, SolidWorks, Statistical Modeling",9,2,1,0,2
+211,ML0215,2,0,2,2,2,2,2,2,0,2,0,0,0,"Deep Learning, MS-Excel, Machine Learning, Python, Statistical Modeling",9,10,1,1,3
+212,ML0216,2,2,2,0,0,2,0,0,0,0,0,0,0,"AutoCAD, MS-Excel, Deep Learning, Machine Learning, MySQL, Python, R Programming, SolidWorks, Statistical Modeling",9,2,0,1,1
 213,ML0217,1,0,0,2,0,2,2,1,0,0,0,0,0,"MS-Excel, HTML, Python, SQL",1,7,0,0,0
-214,ML0218,2,2,0,0,0,2,2,1,0,0,0,0,0,"Data Analytics, Machine Learning, Natural Language Processing (NLP), Python, R Programming, SQL, Statistical Modeling, Computer Vision",9,5,1,0,2
-215,ML0219,3,2,2,0,0,0,0,0,0,0,0,0,0,"Data Analytics, Machine Learning, Python, C Programming, C++ Programming, Database Management System (DBMS), Deep Learning, MS-Excel, MySQL, Natural Language Processing (NLP), Neural Networks, R Programming, Statistical Modeling",12,0,1,1,3
+214,ML0218,2,2,0,0,0,2,2,1,0,0,0,0,0,"Data Analytics, Machine Learning, Natural Language Processing (NLP), Python, R Programming, SQL, Statistical Modeling, Computer Vision",9,5,0,1,1
+215,ML0219,3,2,2,0,0,0,0,0,0,0,0,0,0,"Data Analytics, Machine Learning, Python, C Programming, C++ Programming, Database Management System (DBMS), Deep Learning, MS-Excel, MySQL, Natural Language Processing (NLP), Neural Networks, R Programming, Statistical Modeling",12,0,0,1,1
 216,ML0220,2,2,0,2,0,2,2,3,0,0,0,0,0,"Computer Vision, Data Analytics, Image Processing, Machine Learning, Mathematics, MongoDB, Natural Language Processing (NLP), Python, R Programming, Statistical Modeling, Cloud Computing, Hadoop, MySQL",12,9,1,1,3
-217,ML0221,2,2,0,2,0,2,3,2,0,2,0,0,0,"CSS, Bootstrap, C Programming, Data Structures, Database Management System (DBMS), Django, HTML, Java, JavaScript, PHP, Python, Machine Learning",6,12,0,0,0
-218,ML0222,0,0,0,2,2,2,2,2,0,0,0,0,0,"Adobe Photoshop, C Programming, C++ Programming, CSS, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, MS-Word, Microsoft Visual Studio, MySQL, PHP, SQL, Shell Scripting, Computer Networking, Data Structures, Database Management System (DBMS), Flutter, Java, Linux, MS SQL Server, Perl, WordPress",4,9,0,0,0
-219,ML0223,3,0,1,2,2,2,0,2,0,0,0,0,0,"C Programming, C++ Programming, Data Analytics, English Proficiency (Spoken), English Proficiency (Written), Hindi Proficiency (Spoken), Hindi Proficiency (Written), Photography, Python, Algorithms, Angular 7.0, Data Structures, Database Management System (DBMS), HTML, JavaScript, MATLAB, Machine Learning, MySQL, SQL, Computer Vision, OpenCV",12,6,1,1,3
+217,ML0221,2,2,0,2,0,2,3,2,0,2,0,0,0,"CSS, Bootstrap, C Programming, Data Structures, Database Management System (DBMS), Django, HTML, Java, JavaScript, PHP, Python, Machine Learning",6,12,1,0,2
+218,ML0222,0,0,0,2,2,2,2,2,0,0,0,0,0,"Adobe Photoshop, C Programming, C++ Programming, CSS, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, MS-Word, Microsoft Visual Studio, MySQL, PHP, SQL, Shell Scripting, Computer Networking, Data Structures, Database Management System (DBMS), Flutter, Java, Linux, MS SQL Server, Perl, WordPress",4,9,1,0,2
+219,ML0223,3,0,1,2,2,2,0,2,0,0,0,0,0,"C Programming, C++ Programming, Data Analytics, English Proficiency (Spoken), English Proficiency (Written), Hindi Proficiency (Spoken), Hindi Proficiency (Written), Photography, Python, Algorithms, Angular 7.0, Data Structures, Database Management System (DBMS), HTML, JavaScript, MATLAB, Machine Learning, MySQL, SQL, Computer Vision, OpenCV",12,6,0,1,1
 220,ML0224,2,0,2,1,0,2,0,0,0,0,0,0,0,"Telugu Proficiency (Written), WordPress, Android, AutoCAD, C Programming, Computer Networking, Database Management System (DBMS), HTML, Python, Social Media Marketing, Windows Mobile Application Development, Amazon Web Services (AWS), Java",5,3,0,0,0
-221,ML0225,2,0,0,2,0,2,1,1,0,0,2,2,2,"Arduino, C Programming, C++ Programming, Firebase, HTML, MongoDB, Node.js, Python, ReactJS, Redux, jQuery, CSS, Django, JavaScript",4,12,0,0,0
-222,ML0226,3,0,0,1,0,3,2,1,0,0,0,0,0,"C Programming, C++ Programming, HTML, Java, Python, ASP.NET, CSS, SQL, JavaScript, PHP",3,8,0,0,0
+221,ML0225,2,0,0,2,0,2,1,1,0,0,2,2,2,"Arduino, C Programming, C++ Programming, Firebase, HTML, MongoDB, Node.js, Python, ReactJS, Redux, jQuery, CSS, Django, JavaScript",4,12,1,0,2
+222,ML0226,3,0,0,1,0,3,2,1,0,0,0,0,0,"C Programming, C++ Programming, HTML, Java, Python, ASP.NET, CSS, SQL, JavaScript, PHP",3,8,1,0,2
 223,ML0227,0,0,0,0,0,0,0,0,0,0,0,0,0,"Java, Android, C++ Programming",0,0,0,0,0
 224,ML0228,0,1,0,0,0,2,0,0,0,0,0,0,0,"Android, C Programming, HTML, Java, User Interface (UI) Development",1,3,0,0,0
 225,ML0229,0,0,0,0,0,2,2,0,0,0,0,0,0,"Android, CSS, HTML, Java",0,4,0,0,0
-226,ML0230,0,0,2,0,0,2,2,2,0,0,0,0,2,"MS-Word, C Programming, CSS, Embedded Systems, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, ReactJS",2,8,0,0,0
+226,ML0230,0,0,2,0,0,2,2,2,0,0,0,0,2,"MS-Word, C Programming, CSS, Embedded Systems, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, ReactJS",2,8,1,0,2
 227,ML0231,2,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Java, Python, Android",2,0,0,0,0
 228,ML0232,2,0,2,1,0,2,0,0,0,0,0,0,0,"Android, HTML, Java, Python, PHP",4,3,0,0,0
 229,ML0233,2,2,1,1,0,2,2,1,0,0,0,0,0,"C Programming, C++ Programming, CSS, HTML, Python, Artifical Intelligence, Java, JavaScript, Machine Learning, PHP",7,6,0,0,0
 230,ML0234,2,2,0,2,1,0,0,0,0,0,0,0,0,"C Programming, C++ Programming, Java, PHP, Python, MySQL, NoSQL",5,2,0,0,0
 231,ML0235,1,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Android, Java, Python",1,0,0,0,0
-232,ML0236,2,0,0,0,2,2,2,1,1,1,0,0,0,"SQL, Search Engine Optimization (SEO), UI & UX Design, User Interface (UI) Development, Visual Basic (VB), Adobe Dreamweaver, Amazon Web Services (AWS), C#.NET, CSS, Creative Writing, Eclipse (IDE), English Proficiency (Spoken), English Proficiency (Written), HTML, Hindi Proficiency (Written), JSP, MS SQL Server, MS-Excel, MS-Office, Magento, MySQL, Python, Servlets, Teaching, WordPress, AJAX, ASP.NET, Android, AngularJS, Bootstrap, C++ Programming, Data Structures, Django, Java, JavaScript, Machine Learning, NoSQL, SQLite, XML, jQuery",8,15,0,0,0
+232,ML0236,2,0,0,0,2,2,2,1,1,1,0,0,0,"SQL, Search Engine Optimization (SEO), UI & UX Design, User Interface (UI) Development, Visual Basic (VB), Adobe Dreamweaver, Amazon Web Services (AWS), C#.NET, CSS, Creative Writing, Eclipse (IDE), English Proficiency (Spoken), English Proficiency (Written), HTML, Hindi Proficiency (Written), JSP, MS SQL Server, MS-Excel, MS-Office, Magento, MySQL, Python, Servlets, Teaching, WordPress, AJAX, ASP.NET, Android, AngularJS, Bootstrap, C++ Programming, Data Structures, Django, Java, JavaScript, Machine Learning, NoSQL, SQLite, XML, jQuery",8,15,1,0,2
 233,ML0237,0,0,0,2,0,2,2,0,0,0,0,0,0,".NET, Android, C Programming, C#, CSS, HTML, PHP, Java",0,7,0,0,0
 234,ML0238,1,0,0,0,0,2,2,1,0,0,0,0,0,"C Programming, Android, Angular 7.0, C++ Programming, CSS, HTML, J2EE, Java, SQL, Django, JavaScript, Python",1,6,0,0,0
 235,ML0239,2,0,0,0,0,2,1,0,0,0,0,0,0,"C Programming, HTML, MS-Office, MS-PowerPoint, Python, CSS, Django",2,4,0,0,0
-236,ML0240,0,0,0,2,2,2,2,2,0,0,0,0,1,"CSS, HTML, JavaScript, Manual Testing, MySQL, PHP, Software Testing, ReactJS",2,9,0,0,0
-237,ML0241,1,0,0,2,2,3,3,2,0,2,2,2,0,"CSS, HTML, Amazon Web Services (AWS), Android, AngularJS, Bootstrap, C Programming, C++ Programming, GitHub, Internet of Things (IoT), Java, JavaScript, Linux, MS-Excel, Manual Testing, MongoDB, MySQL, NoSQL, Node.js, PHP, SQLite, Software Testing, UI & UX Design, Unix, Machine Learning, Python, jQuery",7,16,0,0,0
+236,ML0240,0,0,0,2,2,2,2,2,0,0,0,0,1,"CSS, HTML, JavaScript, Manual Testing, MySQL, PHP, Software Testing, ReactJS",2,9,1,0,2
+237,ML0241,1,0,0,2,2,3,3,2,0,2,2,2,0,"CSS, HTML, Amazon Web Services (AWS), Android, AngularJS, Bootstrap, C Programming, C++ Programming, GitHub, Internet of Things (IoT), Java, JavaScript, Linux, MS-Excel, Manual Testing, MongoDB, MySQL, NoSQL, Node.js, PHP, SQLite, Software Testing, UI & UX Design, Unix, Machine Learning, Python, jQuery",7,16,1,0,2
 238,ML0242,1,1,0,0,0,0,0,0,0,0,0,0,0,"Android, C Programming, C++ Programming, Java, MS-Office, MS-PowerPoint, Python",2,0,0,0,0
 239,ML0243,0,0,0,0,0,2,2,0,0,0,0,0,0,"C Programming, CSS, Database Management System (DBMS), HTML, Java, SQL, XML",0,5,0,0,0
 240,ML0244,1,0,2,0,0,0,0,0,0,0,0,0,0,"Android, Python",3,0,0,0,0
@@ -244,91 +244,91 @@
 242,ML0246,0,0,0,0,0,2,0,0,0,0,0,0,0,"HTML, Java",0,2,0,0,0
 243,ML0247,2,0,0,0,0,2,2,1,0,0,0,0,0,"CSS, HTML, Python, SQL, JavaScript",2,5,0,0,0
 244,ML0248,0,0,2,0,0,0,0,0,0,0,0,0,0,"Android, Java",2,0,0,0,0
-245,ML0249,1,1,0,2,0,2,1,2,0,0,0,0,0,"C Programming, C++ Programming, HTML, Java, JavaScript, PHP, Android, CSS, Django, Python, R Programming",2,8,0,0,0
+245,ML0249,1,1,0,2,0,2,1,2,0,0,0,0,0,"C Programming, C++ Programming, HTML, Java, JavaScript, PHP, Android, CSS, Django, Python, R Programming",2,8,1,0,2
 246,ML0250,0,2,2,2,0,2,2,0,0,0,0,0,0,"Android, CSS, HTML, Java, PHP",4,6,0,0,0
 247,ML0251,1,2,0,0,0,2,2,0,0,0,0,0,0,"Algorithms, C Programming, C++ Programming, Data Structures, Android, CSS, Flask, HTML, Java, MATLAB, Python",7,4,0,0,0
 248,ML0252,0,0,0,1,0,1,1,1,0,0,0,0,0,"C Programming, CSS, HTML, JavaScript, PHP",0,4,0,0,0
 249,ML0253,0,0,0,0,0,1,1,1,0,0,0,0,0,"Android, CSS, HTML, Java, JavaScript",0,3,0,0,0
 250,ML0254,0,2,2,0,0,2,2,0,0,2,0,0,0,"Bootstrap, CSS, HTML, Angular 7.0",4,6,0,0,0
-251,ML0255,2,3,3,0,2,2,2,1,0,2,0,0,0,"Arduino, Bootstrap, CSS, HTML, MySQL, Python, C Programming, Django, JavaScript, jQuery",10,9,1,0,2
+251,ML0255,2,3,3,0,2,2,2,1,0,2,0,0,0,"Arduino, Bootstrap, CSS, HTML, MySQL, Python, C Programming, Django, JavaScript, jQuery",10,9,1,1,3
 252,ML0256,0,0,0,0,0,0,0,0,0,0,0,0,0,"Digital Marketing, Video Editing, Adobe Photoshop, Android, Machine Learning",1,1,0,0,0
 253,ML0257,0,0,0,1,2,1,2,0,0,2,0,0,0,"Bootstrap, CSS, Java, MS-Office, MySQL, C++ Programming, HTML, PHP",2,6,0,0,0
-254,ML0258,0,0,2,2,0,2,2,2,0,0,0,0,0,"Adobe Photoshop, C Programming, C++ Programming, CSS, Computer Networking, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS SQL Server, MS-Office, MS-PowerPoint, MS-Word, Microsoft Visual Studio, PHP, SQL, Swing (Java), Visual Basic (VB), Perl",3,9,0,0,0
-255,ML0259,2,0,0,2,3,3,2,2,0,2,0,2,0,"C Programming, C++ Programming, HTML, MySQL, .NET, Bootstrap, CSS, Data Structures, Java, JavaScript, Node.js, PHP, Python, Visual Basic (VB)",6,14,0,0,0
+254,ML0258,0,0,2,2,0,2,2,2,0,0,0,0,0,"Adobe Photoshop, C Programming, C++ Programming, CSS, Computer Networking, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS SQL Server, MS-Office, MS-PowerPoint, MS-Word, Microsoft Visual Studio, PHP, SQL, Swing (Java), Visual Basic (VB), Perl",3,9,1,0,2
+255,ML0259,2,0,0,2,3,3,2,2,0,2,0,2,0,"C Programming, C++ Programming, HTML, MySQL, .NET, Bootstrap, CSS, Data Structures, Java, JavaScript, Node.js, PHP, Python, Visual Basic (VB)",6,14,1,0,2
 256,ML0260,0,0,0,0,0,0,0,0,0,0,0,0,0,"Adobe Photoshop, Android, Java, MS-Office, 3ds Max",0,1,0,0,0
 257,ML0261,0,1,1,0,0,0,0,0,0,0,0,0,0,".NET, C++ Programming, Embedded Systems, Java, Raspberry Pi, VHDL",2,1,0,0,0
-258,ML0262,2,0,0,3,0,3,2,3,0,0,0,0,0,"Algorithms, C Programming, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, PHP, SQL, CSS, Linux, Python, jQuery",4,12,0,0,0
+258,ML0262,2,0,0,3,0,3,2,3,0,0,0,0,0,"Algorithms, C Programming, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, PHP, SQL, CSS, Linux, Python, jQuery",4,12,1,0,2
 259,ML0263,0,2,0,0,0,2,0,2,0,0,0,0,0,"HTML, Java, JavaScript, ASP.NET, Android, C#.NET",2,6,0,0,0
 260,ML0264,2,2,0,0,0,0,0,0,0,0,0,0,0,"Java, Python",4,0,0,0,0
 261,ML0265,1,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Java, Python",1,0,0,0,0
 262,ML0266,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-263,ML0267,1,0,0,2,2,2,2,2,0,2,0,0,0,"Android, Bootstrap, C Programming, CSS, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS-Office, MySQL, PHP, React Native, SQL, C++ Programming, GitHub, LARAVEL, MATLAB, Python",4,10,0,0,0
+263,ML0267,1,0,0,2,2,2,2,2,0,2,0,0,0,"Android, Bootstrap, C Programming, CSS, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS-Office, MySQL, PHP, React Native, SQL, C++ Programming, GitHub, LARAVEL, MATLAB, Python",4,10,1,0,2
 264,ML0268,2,0,2,0,0,2,0,0,0,0,0,0,0,"Database Management System (DBMS), HTML, Python, SQL",4,2,0,0,0
 265,ML0269,2,0,0,2,0,2,2,1,0,0,0,0,0,"CSS, Cloud Computing, HTML, PHP, Python, Android, JavaScript",3,7,0,0,0
 266,ML0270,1,0,0,0,0,2,2,1,0,0,0,0,0,"CSS, HTML, JavaScript, Python",1,5,0,0,0
 267,ML0271,2,0,0,0,0,0,0,0,0,0,0,0,0,"Android, C Programming, C++ Programming, Python, User Interface (UI) Development",2,1,0,0,0
-268,ML0272,2,0,0,2,0,2,2,3,0,0,0,0,0,"C Programming, C++ Programming, JavaScript, CSS, HTML, Java, PHP, Python",2,9,0,0,0
+268,ML0272,2,0,0,2,0,2,2,3,0,0,0,0,0,"C Programming, C++ Programming, JavaScript, CSS, HTML, Java, PHP, Python",2,9,1,0,2
 269,ML0273,0,0,2,2,0,2,2,0,0,0,0,0,0,".NET, Android, C Programming, C++ Programming, CSS, Data Structures, HTML, Java, PHP, Model View Controller(MVC)",3,7,0,0,0
 270,ML0274,0,0,0,0,0,2,0,0,0,0,0,0,0,"Data Structures, Eclipse (IDE), Java, Algorithms, C Programming, C++ Programming, HTML, MS-Office, SQL, Swing (Java)",2,2,0,0,0
-271,ML0275,0,2,0,2,0,2,2,0,0,0,0,0,0,"Data Structures, Android, C Programming, C++ Programming, CSS, HTML, Java, Model View Controller(MVC), PHP, .NET, ASP.NET",3,8,0,0,0
+271,ML0275,0,2,0,2,0,2,2,0,0,0,0,0,0,"Data Structures, Android, C Programming, C++ Programming, CSS, HTML, Java, Model View Controller(MVC), PHP, .NET, ASP.NET",3,8,1,0,2
 272,ML0276,0,2,2,0,0,0,0,0,0,0,0,0,0,"Android, Java",4,0,0,0,0
 273,ML0277,0,0,0,0,0,2,0,0,0,0,0,0,0,"Android, C Programming, C++ Programming, HTML, Java",0,2,0,0,0
 274,ML0278,1,0,0,2,0,3,2,0,0,0,0,0,0,"HTML, Android, C Programming, C++ Programming, CSS, Java, PHP, Python",1,7,0,0,0
 275,ML0279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-276,ML0280,3,1,0,3,0,2,2,0,0,3,0,0,0,"Bootstrap, PHP, Python, CSS, HTML, Java",4,10,0,0,0
+276,ML0280,3,1,0,3,0,2,2,0,0,3,0,0,0,"Bootstrap, PHP, Python, CSS, HTML, Java",4,10,1,0,2
 277,ML0281,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
 278,ML0282,0,0,0,0,0,0,0,2,0,0,0,0,0,"Android, JavaScript, Java",0,2,0,0,0
 279,ML0283,0,2,0,0,0,0,0,0,0,0,0,0,0,"Arduino, C++ Programming",2,0,0,0,0
 280,ML0284,0,2,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Adobe Creative Suite, Android, C++ Programming, Dart, Flutter, Java",2,0,0,0,0
 281,ML0285,1,2,0,0,0,2,0,0,0,0,0,0,0,"C Programming, C++ Programming, Data Structures, HTML, Java, SQL, Android, C#, Python",4,2,0,0,0
-282,ML0286,2,0,0,0,0,3,3,2,0,3,0,0,0,"Bootstrap, CSS, HTML, AngularJS, ElectronJS, JavaScript, Python, jQuery",4,12,0,0,0
-283,ML0287,0,0,0,2,3,3,3,3,0,0,0,0,0,"CSS, HTML, Java, JavaScript, MySQL, Algorithms, Android, C Programming, C++ Programming, Data Structures, PHP",5,11,0,0,0
+282,ML0286,2,0,0,0,0,3,3,2,0,3,0,0,0,"Bootstrap, CSS, HTML, AngularJS, ElectronJS, JavaScript, Python, jQuery",4,12,1,0,2
+283,ML0287,0,0,0,2,3,3,3,3,0,0,0,0,0,"CSS, HTML, Java, JavaScript, MySQL, Algorithms, Android, C Programming, C++ Programming, Data Structures, PHP",5,11,1,0,2
 284,ML0288,0,2,0,1,0,0,0,0,0,0,0,0,0,"English Proficiency (Written), C Programming, C++ Programming, Embedded Systems, English Proficiency (Spoken), Java, PHP",2,1,0,0,0
 285,ML0289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 286,ML0290,0,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Data Structures, Java",1,0,0,0,0
 287,ML0291,0,0,0,0,2,3,0,2,0,0,0,0,0,"C Programming, Cloud Computing, HTML, SQL, Algorithms, Android, C++ Programming, Java, JavaScript, MySQL",4,5,0,0,0
-288,ML0292,0,2,0,2,2,2,2,2,0,0,0,0,0,"C Programming, C++ Programming, CSS, Data Structures, HTML, Hibernate (Java), Java, JavaScript, MySQL, PHP, Spring MVC",5,8,0,0,0
+288,ML0292,0,2,0,2,2,2,2,2,0,0,0,0,0,"C Programming, C++ Programming, CSS, Data Structures, HTML, Hibernate (Java), Java, JavaScript, MySQL, PHP, Spring MVC",5,8,1,0,2
 289,ML0293,2,2,0,0,0,1,1,1,0,0,0,0,0,"Bengali Proficiency (Spoken), Bengali Proficiency (Written), Hindi Proficiency (Spoken), C Programming, C#.NET, C++ Programming, Data Structures, Java, Python, SQL, Android, CSS, Data Analytics, Database Management System (DBMS), HTML, Internet of Things (IoT), JavaScript, Machine Learning",7,4,0,0,0
-290,ML0294,0,0,0,0,0,2,2,2,0,0,0,0,2,"MS-Word, C Programming, CSS, Embedded Systems, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, ReactJS",0,8,0,0,0
+290,ML0294,0,0,0,0,0,2,2,2,0,0,0,0,2,"MS-Word, C Programming, CSS, Embedded Systems, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, ReactJS",0,8,1,0,2
 291,ML0295,2,0,1,0,0,0,0,0,0,0,0,0,0,"Embedded Systems, C Programming, Internet of Things (IoT), Python, Java",3,0,0,0,0
 292,ML0296,0,0,0,2,0,2,2,0,0,0,0,0,0,".NET, Android, C Programming, C++ Programming, CSS, Data Structures, HTML, Java, PHP, Model View Controller(MVC)",1,7,0,0,0
 293,ML0297,0,3,3,0,0,2,0,0,0,0,0,0,0,"Data Structures, Eclipse (IDE), Java, Algorithms, C Programming, C++ Programming, HTML, MS-Office, SQL, Swing (Java)",8,2,0,0,0
-294,ML0298,0,0,0,2,0,2,2,0,0,0,0,0,0,"Data Structures, Android, C Programming, C++ Programming, CSS, HTML, Java, Model View Controller(MVC), PHP, .NET, ASP.NET",1,8,0,0,0
+294,ML0298,0,0,0,2,0,2,2,0,0,0,0,0,0,"Data Structures, Android, C Programming, C++ Programming, CSS, HTML, Java, Model View Controller(MVC), PHP, .NET, ASP.NET",1,8,1,0,2
 295,ML0299,0,1,0,0,0,0,0,0,0,0,0,0,0,"Android, Java",1,0,0,0,0
 296,ML0300,0,0,0,0,0,2,0,0,0,0,0,0,0,"Android, C Programming, C++ Programming, HTML, Java",0,2,0,0,0
 297,ML0301,1,2,0,2,0,3,2,0,0,0,0,0,0,"HTML, Android, C Programming, C++ Programming, CSS, Java, PHP, Python",3,7,0,0,0
 298,ML0302,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-299,ML0303,3,0,2,3,0,2,2,0,0,3,0,0,0,"Bootstrap, PHP, Python, CSS, HTML, Java",5,10,0,0,0
+299,ML0303,3,0,2,3,0,2,2,0,0,3,0,0,0,"Bootstrap, PHP, Python, CSS, HTML, Java",5,10,1,0,2
 300,ML0304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 301,ML0305,0,2,0,0,0,0,0,2,0,0,0,0,0,"Android, JavaScript, Java",2,2,0,0,0
 302,ML0306,0,0,0,0,0,0,0,0,0,0,0,0,0,"Arduino, C++ Programming",0,0,0,0,0
 303,ML0307,0,0,1,0,0,0,0,0,0,0,0,0,0,"C Programming, Adobe Creative Suite, Android, C++ Programming, Dart, Flutter, Java",1,0,0,0,0
 304,ML0308,1,0,2,0,0,2,0,0,0,0,0,0,0,"C Programming, C++ Programming, Data Structures, HTML, Java, SQL, Android, C#, Python",4,2,0,0,0
-305,ML0309,2,0,0,0,0,3,3,2,0,3,0,0,0,"Bootstrap, CSS, HTML, AngularJS, ElectronJS, JavaScript, Python, jQuery",4,12,0,0,0
-306,ML0310,0,0,0,2,3,3,3,3,0,0,0,0,0,"CSS, HTML, Java, JavaScript, MySQL, Algorithms, Android, C Programming, C++ Programming, Data Structures, PHP",5,11,0,0,0
+305,ML0309,2,0,0,0,0,3,3,2,0,3,0,0,0,"Bootstrap, CSS, HTML, AngularJS, ElectronJS, JavaScript, Python, jQuery",4,12,1,0,2
+306,ML0310,0,0,0,2,3,3,3,3,0,0,0,0,0,"CSS, HTML, Java, JavaScript, MySQL, Algorithms, Android, C Programming, C++ Programming, Data Structures, PHP",5,11,1,0,2
 307,ML0311,0,2,2,1,0,0,0,0,0,0,0,0,0,"English Proficiency (Written), C Programming, C++ Programming, Embedded Systems, English Proficiency (Spoken), Java, PHP",4,1,0,0,0
 308,ML0312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 309,ML0313,0,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Data Structures, Java",1,0,0,0,0
 310,ML0314,0,1,2,0,2,3,0,2,0,0,0,0,0,"C Programming, Cloud Computing, HTML, SQL, Algorithms, Android, C++ Programming, Java, JavaScript, MySQL",7,5,0,0,0
-311,ML0315,0,0,0,2,2,2,2,2,0,0,0,0,0,"C Programming, C++ Programming, CSS, Data Structures, HTML, Hibernate (Java), Java, JavaScript, MySQL, PHP, Spring MVC",3,8,0,0,0
+311,ML0315,0,0,0,2,2,2,2,2,0,0,0,0,0,"C Programming, C++ Programming, CSS, Data Structures, HTML, Hibernate (Java), Java, JavaScript, MySQL, PHP, Spring MVC",3,8,1,0,2
 312,ML0316,2,2,0,0,0,1,1,1,0,0,0,0,0,"Bengali Proficiency (Spoken), Bengali Proficiency (Written), Hindi Proficiency (Spoken), C Programming, C#.NET, C++ Programming, Data Structures, Java, Python, SQL, Android, CSS, Data Analytics, Database Management System (DBMS), HTML, Internet of Things (IoT), JavaScript, Machine Learning",7,4,0,0,0
-313,ML0317,0,2,0,0,0,2,2,2,0,0,0,0,2,"MS-Word, C Programming, CSS, Embedded Systems, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, ReactJS",2,8,0,0,0
+313,ML0317,0,2,0,0,0,2,2,2,0,0,0,0,2,"MS-Word, C Programming, CSS, Embedded Systems, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, ReactJS",2,8,1,0,2
 314,ML0318,2,2,0,0,0,0,0,0,0,0,0,0,0,"Embedded Systems, C Programming, Internet of Things (IoT), Python, Java",4,0,0,0,0
-315,ML0319,0,0,0,1,0,2,2,2,0,0,0,0,1,"CSS, HTML, JavaScript, PHP",0,8,0,0,0
-316,ML0320,2,0,0,0,2,3,3,3,0,0,0,0,2,"CSS, Data Structures, HTML, JavaScript, AngularJS, C#, MySQL, Python, SQL",6,11,0,0,0
+315,ML0319,0,0,0,1,0,2,2,2,0,0,0,0,1,"CSS, HTML, JavaScript, PHP",0,8,1,0,2
+316,ML0320,2,0,0,0,2,3,3,3,0,0,0,0,2,"CSS, Data Structures, HTML, JavaScript, AngularJS, C#, MySQL, Python, SQL",6,11,1,0,2
 317,ML0321,1,2,0,0,0,2,2,1,0,0,0,0,1,"C Programming, Android, Angular 7.0, C++ Programming, CSS, HTML, J2EE, Java, SQL, Django, JavaScript, Python",3,7,0,0,0
-318,ML0322,0,2,0,0,0,2,2,2,0,0,0,0,1,".NET, ASP.NET, Adobe Photoshop, C#, C++ Programming, CSS, HTML, Java, JavaScript, MS-Office, Visual Basic (VB)",2,10,0,0,0
+318,ML0322,0,2,0,0,0,2,2,2,0,0,0,0,1,".NET, ASP.NET, Adobe Photoshop, C#, C++ Programming, CSS, HTML, Java, JavaScript, MS-Office, Visual Basic (VB)",2,10,1,0,2
 319,ML0323,3,0,0,0,0,2,0,2,0,0,0,0,2,"Linux, Python, C Programming, C++ Programming, English Proficiency (Spoken), English Proficiency (Written), HTML, Hindi Proficiency (Spoken), Hindi Proficiency (Written), Internet of Things (IoT), Java, JavaScript, Punjabi Proficiency (Spoken), Punjabi Proficiency (Written)",3,6,0,0,0
 320,ML0324,2,2,0,0,1,0,0,0,0,0,0,0,1,"Python, MySQL",5,1,0,0,0
 321,ML0325,0,0,0,0,1,1,0,0,0,0,0,0,2,"Android, C#, C++ Programming, HTML, Java, MySQL, XML",1,4,0,0,0
 322,ML0326,3,0,0,0,0,0,0,0,0,0,0,0,1,"C Programming, C++ Programming, Python, Algorithms, Data Structures, Java",5,1,0,0,0
 323,ML0327,2,0,0,0,0,0,0,0,0,0,0,0,1,"MS-Excel, Power BI, Python, BIG DATA ANALYTICS, Deep Learning, Machine Learning, SQL",6,1,0,0,0
-324,ML0328,2,0,0,2,0,3,2,2,0,0,0,0,0,"C Programming, Data Structures, HTML, C++ Programming, CSS, Java, JavaScript, PHP, Python, Database Management System (DBMS)",3,9,0,0,0
+324,ML0328,2,0,0,2,0,3,2,2,0,0,0,0,0,"C Programming, Data Structures, HTML, C++ Programming, CSS, Java, JavaScript, PHP, Python, Database Management System (DBMS)",3,9,1,0,2
 325,ML0329,2,0,1,0,0,2,2,1,0,0,0,0,0,"CSS, HTML, Python, SQL, JavaScript",3,5,0,0,0
 326,ML0330,0,0,0,0,0,2,0,0,0,0,0,0,0,"Adobe XD, C Programming, C++ Programming, Java, HTML, UI & UX Design, Wireframing",0,3,0,0,0
-327,ML0331,3,0,0,0,0,3,2,2,0,0,0,0,0,"English Proficiency (Spoken), HTML, MS-Office, MS-PowerPoint, Python, Adobe Photoshop, Adobe Premiere Pro, C Programming, CSS, Data Structures, JavaScript, Search Engine Marketing (SEM), Software Testing",4,8,0,0,0
+327,ML0331,3,0,0,0,0,3,2,2,0,0,0,0,0,"English Proficiency (Spoken), HTML, MS-Office, MS-PowerPoint, Python, Adobe Photoshop, Adobe Premiere Pro, C Programming, CSS, Data Structures, JavaScript, Search Engine Marketing (SEM), Software Testing",4,8,1,0,2
 328,ML0332,0,2,0,1,0,1,1,1,0,0,0,0,1,"CSS, HTML, JavaScript, PHP, WordPress",3,5,0,0,0
-329,ML0333,0,0,0,0,2,2,2,2,0,0,0,0,2,"C Programming, CSS, HTML, Java, JavaScript, MySQL",2,8,0,0,0
+329,ML0333,0,0,0,0,2,2,2,2,0,0,0,0,2,"C Programming, CSS, HTML, Java, JavaScript, MySQL",2,8,1,0,2
 330,ML0334,0,0,0,0,0,0,0,0,0,0,0,0,1,"C++ Programming, Photography, Java, Linux",0,1,0,0,0
 331,ML0335,1,0,2,0,0,0,0,0,0,0,0,0,2,"Java, Software Testing, Android, Ethical Hacking, Python",3,2,0,0,0
 332,ML0336,1,0,0,0,0,0,0,0,0,0,0,0,1,"C Programming, Java, Python",1,1,0,0,0
@@ -336,7 +336,7 @@
 334,ML0338,1,2,1,0,0,0,0,1,0,0,0,0,0,"WordPress, C Programming, Data Analytics, Data Structures, JavaScript, Python, React Native, SQL",7,1,0,0,0
 335,ML0339,0,0,1,0,0,2,2,0,0,0,0,0,0,"C Programming, CSS, Database Management System (DBMS), HTML, Java, SQL, XML",1,5,0,0,0
 336,ML0340,0,0,2,0,0,2,0,0,0,0,0,0,0,"HTML, Java, SQL, Software Testing",2,2,0,0,0
-337,ML0341,1,0,0,0,2,2,2,2,0,0,0,2,1,"CSS, HTML, Java, JavaScript, MySQL, Node.js, ReactJS, Python",3,9,0,0,0
+337,ML0341,1,0,0,0,2,2,2,2,0,0,0,2,1,"CSS, HTML, Java, JavaScript, MySQL, Node.js, ReactJS, Python",3,9,1,0,2
 338,ML0342,0,0,0,0,1,2,2,1,0,0,0,0,2,"CSS, HTML, Java, C Programming, Firebase, JavaScript, MySQL",1,7,0,0,0
 339,ML0343,1,0,0,0,0,2,2,0,1,0,0,0,1,"MS-Office, Algorithms, C Programming, C++ Programming, CSS, Data Structures, Database Management System (DBMS), HTML, MS-Excel, MS-PowerPoint, AJAX, Linux, Python",3,6,0,0,0
 340,ML0344,0,1,0,0,0,2,2,2,0,0,0,0,1,"MS-Word, C Programming, CSS, Embedded Systems, HTML, JavaScript, MS-Excel, MS-Office, MS-PowerPoint, ReactJS",1,7,0,0,0
@@ -345,22 +345,22 @@
 343,ML0347,0,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Java, SQL",0,0,0,0,0
 344,ML0348,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 345,ML0349,2,0,0,0,0,0,0,0,0,0,0,2,0,"AngularJS, Java, Node.js, Python",3,2,0,0,0
-346,ML0350,2,0,1,0,3,3,3,3,0,0,0,0,0,"Algorithms, C Programming, CSS, Data Structures, HTML, Java, JavaScript, Manual Testing, MySQL, Robotics, Android, Hibernate (Java), J2EE, Python",8,9,0,0,0
+346,ML0350,2,0,1,0,3,3,3,3,0,0,0,0,0,"Algorithms, C Programming, CSS, Data Structures, HTML, Java, JavaScript, Manual Testing, MySQL, Robotics, Android, Hibernate (Java), J2EE, Python",8,9,1,0,2
 347,ML0351,1,0,0,2,0,0,0,0,0,0,0,0,0,"Java, PHP, Python",1,2,0,0,0
-348,ML0352,0,0,0,0,0,3,2,2,0,0,0,0,0,"C Programming, C++ Programming, HTML, CSS, Data Structures, Java, JavaScript, SQL, Django",1,8,0,0,0
+348,ML0352,0,0,0,0,0,3,2,2,0,0,0,0,0,"C Programming, C++ Programming, HTML, CSS, Data Structures, Java, JavaScript, SQL, Django",1,8,1,0,2
 349,ML0353,2,0,0,2,1,0,0,0,0,0,0,0,0,"C Programming, C++ Programming, Java, PHP, Python, MySQL, NoSQL",3,2,0,0,0
 350,ML0354,1,0,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Android, Java, Python",1,0,0,0,0
-351,ML0355,2,0,0,0,2,2,2,1,1,1,0,0,0,"SQL, Search Engine Optimization (SEO), UI & UX Design, User Interface (UI) Development, Visual Basic (VB), Adobe Dreamweaver, Amazon Web Services (AWS), C#.NET, CSS, Creative Writing, Eclipse (IDE), English Proficiency (Spoken), English Proficiency (Written), HTML, Hindi Proficiency (Written), JSP, MS SQL Server, MS-Excel, MS-Office, Magento, MySQL, Python, Servlets, Teaching, WordPress, AJAX, ASP.NET, Android, AngularJS, Bootstrap, C++ Programming, Data Structures, Django, Java, JavaScript, Machine Learning, NoSQL, SQLite, XML, jQuery",8,15,0,0,0
+351,ML0355,2,0,0,0,2,2,2,1,1,1,0,0,0,"SQL, Search Engine Optimization (SEO), UI & UX Design, User Interface (UI) Development, Visual Basic (VB), Adobe Dreamweaver, Amazon Web Services (AWS), C#.NET, CSS, Creative Writing, Eclipse (IDE), English Proficiency (Spoken), English Proficiency (Written), HTML, Hindi Proficiency (Written), JSP, MS SQL Server, MS-Excel, MS-Office, Magento, MySQL, Python, Servlets, Teaching, WordPress, AJAX, ASP.NET, Android, AngularJS, Bootstrap, C++ Programming, Data Structures, Django, Java, JavaScript, Machine Learning, NoSQL, SQLite, XML, jQuery",8,15,1,0,2
 352,ML0356,0,2,0,2,0,2,2,0,0,0,0,0,0,".NET, Android, C Programming, C#, CSS, HTML, PHP, Java",2,7,0,0,0
 353,ML0357,1,2,0,1,0,2,2,1,0,0,0,0,0,"C Programming, C++ Programming, CSS, HTML, Java, SQL, J2EE, JavaScript, PHP, Python",3,6,0,0,0
 354,ML0358,2,3,0,0,0,2,1,0,0,0,0,0,0,"C Programming, HTML, MS-Office, MS-PowerPoint, Python, CSS, Django",5,4,0,0,0
-355,ML0359,0,1,2,2,2,2,2,2,0,0,0,0,0,"CSS, HTML, JavaScript, Manual Testing, MySQL, PHP, Software Testing",5,8,0,0,0
-356,ML0360,1,0,2,2,2,3,3,2,0,2,2,2,0,"CSS, HTML, Amazon Web Services (AWS), Android, AngularJS, Bootstrap, C Programming, C++ Programming, GitHub, Internet of Things (IoT), Java, JavaScript, Linux, MS-Excel, Manual Testing, MongoDB, MySQL, NoSQL, Node.js, PHP, SQLite, Software Testing, UI & UX Design, Unix, Machine Learning, Python, jQuery",9,16,1,0,2
+355,ML0359,0,1,2,2,2,2,2,2,0,0,0,0,0,"CSS, HTML, JavaScript, Manual Testing, MySQL, PHP, Software Testing",5,8,1,0,2
+356,ML0360,1,0,2,2,2,3,3,2,0,2,2,2,0,"CSS, HTML, Amazon Web Services (AWS), Android, AngularJS, Bootstrap, C Programming, C++ Programming, GitHub, Internet of Things (IoT), Java, JavaScript, Linux, MS-Excel, Manual Testing, MongoDB, MySQL, NoSQL, Node.js, PHP, SQLite, Software Testing, UI & UX Design, Unix, Machine Learning, Python, jQuery",9,16,1,1,3
 357,ML0361,0,0,0,0,0,2,1,2,0,0,1,1,1,"HTML, JavaScript, CSS, MongoDB, Node.js, ReactJS",1,7,0,0,0
 358,ML0362,1,0,0,0,0,0,0,0,0,0,0,0,0,"Android, C Programming, C++ Programming, Java, MS-Office, MS-PowerPoint, Python",1,0,0,0,0
 359,ML0363,0,2,0,0,0,2,2,0,0,0,0,0,0,"C Programming, CSS, Database Management System (DBMS), HTML, Java, SQL, XML",2,5,0,0,0
 360,ML0364,1,0,2,0,0,0,0,0,0,0,0,0,0,"Android, Python",3,0,0,0,0
-361,ML0365,2,3,0,0,2,0,2,2,0,0,0,0,0,"Amazon Web Services (AWS), C Programming, CSS, Data Structures, Database Management System (DBMS), Java, JavaScript, MySQL, Python, AngularJS, Computer Networking, Data Analytics, Linux, R Programming, SAP",10,4,1,0,2
+361,ML0365,2,3,0,0,2,0,2,2,0,0,0,0,0,"Amazon Web Services (AWS), C Programming, CSS, Data Structures, Database Management System (DBMS), Java, JavaScript, MySQL, Python, AngularJS, Computer Networking, Data Analytics, Linux, R Programming, SAP",10,4,0,1,1
 362,ML0366,0,0,0,0,0,2,0,0,0,0,0,0,0,"HTML, Java",0,2,0,0,0
 363,ML0367,2,0,0,0,0,2,2,1,0,0,0,0,0,"CSS, HTML, Python, SQL, JavaScript",2,5,0,0,0
 364,ML0368,0,0,2,0,0,0,0,0,0,0,0,0,0,"Android, Java",2,0,0,0,0
@@ -370,21 +370,21 @@
 368,ML0372,0,2,0,1,0,1,1,1,0,0,0,0,0,"C Programming, CSS, HTML, JavaScript, PHP",2,4,0,0,0
 369,ML0373,0,0,1,0,0,1,1,1,0,0,0,0,0,"Android, CSS, HTML, Java, JavaScript",1,3,0,0,0
 370,ML0374,0,0,0,0,0,2,2,0,0,2,0,0,0,"Bootstrap, CSS, HTML, Angular 7.0",0,6,0,0,0
-371,ML0375,2,0,2,0,2,2,2,1,0,2,0,0,0,"Arduino, Bootstrap, CSS, HTML, MySQL, Python, C Programming, Django, JavaScript, jQuery",6,9,0,0,0
+371,ML0375,2,0,2,0,2,2,2,1,0,2,0,0,0,"Arduino, Bootstrap, CSS, HTML, MySQL, Python, C Programming, Django, JavaScript, jQuery",6,9,1,0,2
 372,ML0376,0,0,0,0,0,0,0,0,0,0,0,0,0,"Digital Marketing, Video Editing, Adobe Photoshop, Android, Machine Learning",1,1,0,0,0
 373,ML0377,0,1,0,1,2,1,2,0,0,2,0,0,0,"Bootstrap, CSS, Java, MS-Office, MySQL, C++ Programming, HTML, PHP",3,6,0,0,0
-374,ML0378,0,0,0,2,0,2,2,2,0,0,0,0,0,"Adobe Photoshop, C Programming, C++ Programming, CSS, Computer Networking, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS SQL Server, MS-Office, MS-PowerPoint, MS-Word, Microsoft Visual Studio, PHP, SQL, Swing (Java), Visual Basic (VB), Perl",1,9,0,0,0
-375,ML0379,2,0,0,2,3,3,2,2,0,2,0,2,0,"C Programming, C++ Programming, HTML, MySQL, .NET, Bootstrap, CSS, Data Structures, Java, JavaScript, Node.js, PHP, Python, Visual Basic (VB)",6,14,0,0,0
+374,ML0378,0,0,0,2,0,2,2,2,0,0,0,0,0,"Adobe Photoshop, C Programming, C++ Programming, CSS, Computer Networking, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS SQL Server, MS-Office, MS-PowerPoint, MS-Word, Microsoft Visual Studio, PHP, SQL, Swing (Java), Visual Basic (VB), Perl",1,9,1,0,2
+375,ML0379,2,0,0,2,3,3,2,2,0,2,0,2,0,"C Programming, C++ Programming, HTML, MySQL, .NET, Bootstrap, CSS, Data Structures, Java, JavaScript, Node.js, PHP, Python, Visual Basic (VB)",6,14,1,0,2
 376,ML0380,0,0,2,0,0,0,0,0,0,0,0,0,0,"Adobe Photoshop, Android, Java, MS-Office, 3ds Max",2,1,0,0,0
 377,ML0381,0,0,0,0,0,0,0,0,0,0,0,0,0,"Accounting, C Programming, Data Structures, VHDL",1,0,0,0,0
-378,ML0382,2,0,0,3,0,3,2,3,0,0,0,0,0,"Algorithms, C Programming, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, PHP, SQL, CSS, Python, jQuery",4,12,0,0,0
+378,ML0382,2,0,0,3,0,3,2,3,0,0,0,0,0,"Algorithms, C Programming, Data Structures, Database Management System (DBMS), HTML, Java, JavaScript, PHP, SQL, CSS, Python, jQuery",4,12,1,0,2
 379,ML0383,0,0,0,0,0,2,0,2,0,0,0,0,0,"HTML, Java, JavaScript, ASP.NET, Android, C#.NET",0,6,0,0,0
 380,ML0384,2,0,0,0,0,0,0,0,0,0,0,0,0,"Java, Python",2,0,0,0,0
 381,ML0385,1,1,0,0,0,0,0,0,0,0,0,0,0,"C Programming, Java, Python",2,0,0,0,0
 382,ML0386,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-383,ML0387,1,1,0,2,2,2,2,2,0,2,0,0,0,"Android, Bootstrap, C Programming, CSS, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS-Office, MySQL, PHP, React Native, SQL, C++ Programming, GitHub, LARAVEL, MATLAB, Python",5,10,0,0,0
+383,ML0387,1,1,0,2,2,2,2,2,0,2,0,0,0,"Android, Bootstrap, C Programming, CSS, Database Management System (DBMS), HTML, Java, JavaScript, Linux, MS-Office, MySQL, PHP, React Native, SQL, C++ Programming, GitHub, LARAVEL, MATLAB, Python",5,10,1,0,2
 384,ML0388,2,1,0,0,0,2,0,0,0,0,0,0,0,"Database Management System (DBMS), HTML, Python, SQL",3,2,0,0,0
 385,ML0389,2,0,0,2,0,2,2,1,0,0,0,0,0,"CSS, Cloud Computing, HTML, PHP, Python, Android, JavaScript",3,7,0,0,0
 386,ML0390,1,0,0,0,0,2,2,1,0,0,0,0,0,"CSS, HTML, JavaScript, Python",1,5,0,0,0
 387,ML0391,2,2,0,0,0,0,0,0,0,0,0,0,0,"Android, C Programming, C++ Programming, Python, User Interface (UI) Development",4,1,0,0,0
-388,ML0392,2,3,0,2,0,2,2,3,0,0,0,0,0,"C Programming, C++ Programming, JavaScript, CSS, HTML, Java, PHP, Python",5,9,0,0,0
+388,ML0392,2,3,0,2,0,2,2,3,0,0,0,0,0,"C Programming, C++ Programming, JavaScript, CSS, HTML, Java, PHP, Python",5,9,1,0,2

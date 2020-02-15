@@ -82,13 +82,13 @@ def adding_necessary_columns(cleaned_csv, base_address, Data_Scientist_marks, We
     Data_Scientist_Eligibility = []
 
     for marks in Data_Scientist_Total:
-        if marks > Data_Scientist_marks:
+        if marks >= Data_Scientist_marks:
             Data_Scientist_Eligibility.append(1)
         else:
             Data_Scientist_Eligibility.append(0)
 
-    for marks in Data_Scientist_Total:
-        if marks > Web_Developer_marks:
+    for marks in Web_Development_Total:
+        if marks >= Web_Developer_marks:
             Web_Development_Eligibility.append(1)
         else:
             Web_Development_Eligibility.append(0)
@@ -119,5 +119,5 @@ def adding_necessary_columns(cleaned_csv, base_address, Data_Scientist_marks, We
     add_col_df["Post Assigned"] = Assigning_post
     add_col_df.drop("Unnamed: 0.1", axis=1, inplace=True)
     add_col_df.drop("Unnamed: 0", axis=1, inplace=True)
-    
+
     add_col_df.to_csv(base_address + "Role_Assignment/Dataset/Munged_csv.csv")
